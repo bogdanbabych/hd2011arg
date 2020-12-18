@@ -34,3 +34,16 @@ lexparser-lang.sh German 150 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz
 lexparser-lang.sh German 150 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-en/DIR-weil--OpenSubtitles.de-en.de-ISO.txt
 lexparser-lang.sh German 150 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-en/REV-jedoch--OpenSubtitles.de-en.de-ISO.txt
 lexparser-lang.sh German 150 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-en/REV-aber--OpenSubtitles.de-en.de-ISO.txt
+
+###
+# in directory for lexparser-lang.sh
+# cd /Users/bogdan/elisp/stanford-nlp/stanford-parser-full-2020-11-17
+# lexparser-lang.sh French 150 edu/stanford/nlp/models/lexparser/frenchPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/DIR-donc--OpenSubtitles.de-fr.fr.txt
+
+
+# Fr workflow
+# in directory of stanford NLP
+cd /Users/bogdan/elisp/stanford-nlp/stanford-corenlp-4.2.0
+# java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file french.txt -outputFormat text
+java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/DIR-donc--OpenSubtitles.de-fr.fr.txt 
+
