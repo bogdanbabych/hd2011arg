@@ -25228,3 +25228,4323 @@
                 (NP (DT a) (NN while)))))))))
   (. .))
 
+(S
+  (ADVP (RB However))
+  (, ,)
+  (NP (PRP I))
+  (VP (VBP do) (RB not)
+    (VP (VB wish)
+      (S
+        (VP (TO to)
+          (VP (VB lose)
+            (NP (PRP$ my) (NN temper)))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (ADVP (RB very) (RB shortly))
+          (, ,)
+          (NP (PRP I))
+          (VP (MD shall)
+            (VP (VB lose)
+              (NP (PRP$ my) (NN head))))))))
+  (. .))
+
+(S
+  (NP
+    (NP (DT The) (NN idea))
+    (SBAR (IN that)
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (VP (VBG hiding)
+            (CC or)
+            (VBG running)
+            (ADVP (RB away) (RB never) (RB quite)))))))
+  (VP (VBD died)
+    (PRT (RP out)))
+  (. .))
+
+(S
+  (S
+    (NP (PRP It))
+    (VP (MD should)
+      (VP (VB have))))
+  (, ,)
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)))
+  (, ,)
+  (S
+    (PP (IN because)
+      (NP (DT the) (JJ next) (CD seven) (NNS years)))
+    (NP (PRP I))
+    (VP (VBD was) (RB n't)
+      (VP (VBG hiding))))
+  (. .))
+
+(PRN (: -)
+  (SBARQ
+    (WHADVP (WRB Why)))
+  (. ?))
+
+(S
+  (INTJ (UH Well))
+  (, ,)
+  (SBAR (IN because)
+    (S
+      (NP (NNS people))
+      (VP (VBP trust)
+        (NP (PRP you)))))
+  (, ...)
+  (CC And)
+  (, ,)
+  (ADVP (RB well))
+  (, ,)
+  (NP (PRP I))
+  (VP (VBP 'm)
+    (ADVP (RB just))
+    (ADJP (JJ honest)
+      (NP (NNP Jake) (NNP Dingle))))
+  (. .))
+
+(SBARQ
+  (WHNP (WP What))
+  (SQ (VBP do)
+    (NP (PRP you))
+    (VP (VB want)))
+  (. ?))
+
+(S
+  (NP (PRP I))
+  (VP (VBP 've)
+    (VP (VBN come)
+      (PP (RB because) (IN of)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBD did)
+              (PP (IN to)
+                (NP (NNP Thorley)))))))))
+  (. .))
+
+(S
+  (NP (PRP$ Your) (NN hand))
+  (VP (VBD shook) (, ,)
+    (NAC (CC but)
+      (RB not)
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBP hate)
+            (NP (PRP me)))))))
+  (. .))
+
+(S (: -)
+  (NP (PRP I))
+  (VP (MD wo) (RB n't))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBP 're)
+    (VP (VBG doing)
+      (NP (DT this))
+      (PP (IN for)
+        (NP (PRP me)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (ADJP (JJ afraid)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD 'll)
+                    (VP (VB be)
+                      (VP (VBN hurt))))))))))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (ADVP (RB all))
+  (VP (VBD started)
+    (PP (RB because) (IN of)
+      (NP
+        (NP (PRP$ your) (NN love))
+        (, ,)
+        (NP (PRP$ your) (NN guilt)))))
+  (. .))
+
+(S
+  (NP (NNS Boggs))
+  (VP (VBD was) (RB not)
+    (VP (VBN run)
+      (PRT (RP off))
+      (SBAR
+        (SBAR (IN because)
+          (S
+            (NP (PRP He))
+            (VP (VBD wanted)
+              (S
+                (VP (TO to)
+                  (VP (VB settle)
+                    (NP (DT the) (CD 160) (NNS acres))))))))
+        (CC But)
+        (SBAR
+          (SBAR (IN because))
+          (WHPP (IN of)
+            (WHNP (WP what)))
+          (S
+            (NP (PRP he))
+            (VP (VBD wanted)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (PP (IN with)
+                      (NP (DT the) (NN land))))))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (VBP 're)
+    (ADVP (RB here))
+    (SBAR (IN because)
+      (S
+        (NP (PRP we))
+        (VP (VBD got)
+          (NP (DT a) (NN right))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADVP (RB here)))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP know)
+    (SBAR
+      (S
+        (NP (PRP you))
+        (VP (VBP 've)
+          (VP (VBN turned)
+            (PP (IN to)
+              (NP (PRP me)))
+            (SBAR (RB only) (IN because)
+              (S
+                (NP (NN doc) (NN reid))
+                (VP (VBZ is)
+                  (VP (VBN gone))))))))))
+  (. .))
+
+(FRAG (CC And)
+  (SBAR (IN that)
+    (S
+      (NP (PRP you))
+      (VP (VBP want)
+        (NP
+          (NP (NN nothing))
+          (PP (IN from)
+            (NP (PRP me)))
+          (PP (IN But)
+            (NP
+              (NP (NN news))
+              (PP (IN of)
+                (NP (PRP$ your) (NNS children)))))))))
+  (. .))
+
+(S
+  (NP (PRP They))
+  (VP (VBP suspect)
+    (NP (PRP me))
+    (PP (IN for)
+      (NP
+        (NP (NNP Drake) (POS 's))
+        (NN killing)))
+    (SBAR (IN because)
+      (S
+        (NP (DT the) (NN guy))
+        (VP (VBD owed)
+          (NP (PRP me))
+          (NP (DT some) (NN dough))))))
+  (. .))
+
+(S
+  (NP (DT That))
+  (VP (VBZ 's)
+    (NP
+      (NP (DT all))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP know)
+            (PP (IN about)
+              (NP (PRP her)))
+            (SBAR (IN because)
+              (S
+                (NP (PRP we))
+                (VP (VBP do) (RB n't)
+                  (VP (VB go)
+                    (S
+                      (VP (VBG snooping)
+                        (PP (IN on)
+                          (NP (PRP$ our) (NNS guests))))))))))))))
+  (. .))
+
+(S
+  (SBAR (IN If)
+    (S
+      (NP (PRP you))
+      (VP (VBP 've)
+        (VP (VBN come)
+          (S
+            (VP (TO to)
+              (VP (VB fish)
+                (PP (IN for)
+                  (NP (NN information))))))))))
+  (, ,)
+  (NP (PRP you))
+  (VP (VBP 've)
+    (VP (VBN come)
+      (PP (IN to)
+        (NP (DT the) (JJ wrong) (NN place)))
+      (, ...)
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (ADVP (RB never))
+          (VP (VBP go)
+            (S
+              (VP (VBG snooping)
+                (PP (IN on)
+                  (NP (PRP$ our) (NNS guests))))))))))
+  (. .))
+
+(SQ (VBP Do)
+  (NP (PRP you))
+  (ADVP (RB always))
+  (VP (VB have)
+    (S
+      (VP (TO to)
+        (VP (VB ride)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN baggage) (NN car))
+              (PP (RB because) (IN of)
+                (NP (DT the) (NNP M) (HYPH -) (NNP U-T-T)))))))))
+  (. ?))
+
+(S
+  (NP
+    (NP (DT The) (JJ great) (NNP Bachrach))
+    (, ,)
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP (VBD kept)
+          (NP (PRP me))
+          (PRT (RP out))
+          (PP (IN of)
+            (NP (PRP$ his) (NN club)))
+          (PP (IN because)
+            (NP (PRP$ my) (NN mother)))))))
+  (VP (VBD was)
+    (NP (DT a) (NNP Manchester) (NNP Greek)))
+  (. .))
+
+(S
+  (INTJ (UH Sure))
+  (SBAR (IN because)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (NP (DT a) (NN fool)))))
+  (, ,)
+  (NP
+    (NP (DT a) (JJ deliberate) (, ,) (JJ intentional) (NN fool))
+    (CC and)
+    (NP (DT that)))
+  (VP (VBZ 's)
+    (NP (DT the) (JJS worst) (NN kind)))
+  (. .))
+
+(S (CC And)
+  (SBAR (IN because)
+    (FRAG
+      (WHPP (IN of)
+        (WHNP (WDT that)))))
+  (, ,)
+  (NP (PRP you))
+  (VP (MD can)
+    (VP (VB be)
+      (ADJP (RB fairly) (JJ certain)
+        (PP (IN of)
+          (NP (DT the) (NN month))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP have)
+    (NP (NN something)
+      (S
+        (VP (TO to)
+          (VP (VB tell)
+            (PP
+              (PP (IN to)
+                (NP (PRP you)))
+              (CC both)
+              (, ...)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (PRP I))
+                  (VP (VBP have) (RB n't)
+                    (VP (VBN told)
+                      (NP (PRP you))
+                      (SBAR (IN before) (IN because)
+                        (S
+                          (NP
+                            (NP (NN everything))
+                            (SBAR
+                              (S
+                                (NP (PRP I))
+                                (VP (VBP say)))))
+                          (VP (VBZ is)
+                            (VP (VBG being)
+                              (VP (VBN reported)
+                                (ADVP (RB immediately))
+                                (PP (IN to)
+                                  (NP (DT the) (PRP$ my)
+                                    (NML (NN mother) (HYPH -) (IN in) (HYPH -) (NN law)))))))
+                          (, ,)
+                          (NP (DT the) (NNPS Archduchess))))))))))))))
+  (. .))
+
+(S
+  (SBAR (IN If)
+    (S
+      (NP (PRP I))
+      (VP (VB invite)
+        (S
+          (NP (PRP you))
+          (VP (TO to)
+            (VP (VB sit)
+              (PRT (RP down))
+              (ADVP (RB there))))))))
+  (, ,)
+  (NP (PRP it))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBP 've)
+          (VP (VBN decided) (, ,) (VBN decided)))))
+    (: ...)
+    (S
+      (VP (TO to)
+        (VP (VB treat)
+          (NP (PRP you))
+          (PP (IN as)
+            (NP (DT an) (JJ equal)))))))
+  (. .))
+
+(S
+  (NP (PRP They))
+  (VP (VBP 've)
+    (VP (VBN killed)
+      (NP (DT the) (NNP King))
+      (SBAR (IN because)
+        (S
+          (NP (PRP he))
+          (VP (VBD wanted)
+            (S
+              (VP (TO to)
+                (VP (VB build)
+                  (NP (DT a) (NN theatre))))))))))
+  (. .))
+
+(S
+  (NP (PRP They))
+  (VP (VBP want)
+    (S
+      (VP (TO to)
+        (VP (VB kill)
+          (NP (PRP me))
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBP 'm)
+                (VP (VBG building)
+                  (NP (NNS palaces))))))))))
+  (. .))
+
+(S
+  (ADVP (RB Instead))
+  (NP (PRP you))
+  (VP (VBP play)
+    (NP
+      (NP (DT the) (NN weakling))
+      (PP (RB because) (IN of)
+        (NP (PRP$ your) (NN injury)))))
+  (. .))
+
+(S
+  (NP (DT This) (JJ young) (NN man))
+  (VP (VBZ has)
+    (VP (VBD fainted)
+      (SBAR (IN because)
+        (S
+          (NP (PRP he))
+          (VP (VBZ 's)
+            (VP (VBN starved)))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBP treat)
+    (NP (PRP me))
+    (PP (IN like)
+      (NP (DT a) (NN coward)))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP
+            (VP (VB pick)
+              (PRT (RP up))
+              (NP
+                (NP (DT this) (NN gun))
+                (PP (IN from)
+                  (NP (DT the) (NN table)))))
+            (CC and)
+            (VP (VB shoot)
+              (NP (PRP you))
+              (PP (IN in)
+                (NP (DT the) (NN back)))))))))
+  (. !))
+
+(S (: -)
+  (NP (PRP You))
+  (VP (VBP 've)
+    (ADVP (RB probably))
+    (VP (VBN come)
+      (PP (RB because) (IN of)
+        (NP (PRP$ my) (NN ball)))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (DT the) (NNP Oberwald) (NN garrison))
+        (VP (VBZ is)
+          (VP (VBN stationed)
+            (PP (IN at)
+              (NP (NNP Krantz))))))))
+  (. .))
+
+(S
+  (NP (PRP She))
+  (VP (MD could) (RB n't)
+    (VP (VB tell)
+      (NP (PRP them))
+      (NP (NN anything))
+      (SBAR (IN because)
+        (S
+          (NP (PRP she))
+          (VP (VBD knew)
+            (NP (NN nothing)))))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (VP (VBZ 's) (RB not)
+    (NP
+      (NP (DT the) (JJ first) (NN time) (NN someone))
+      (SBAR
+        (S
+          (VP (VBZ has)
+            (VP (VBN stayed)
+              (NP
+                (ADVP (RB here))
+                (DT all) (NN night)))))))
+    (SBAR (IN because)
+      (S
+        (NP (PRP he))
+        (VP (VBD had)
+          (ADVP (RB nowhere) (RB else))
+          (S
+            (VP (TO to)
+              (VP (VB go))))))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBD said)
+    (SBAR
+      (S
+        (NP (PRP I))
+        (ADVP (RB only))
+        (VP (VBD sent)
+          (PP (IN for)
+            (NP (DT the) (NN doctor)))
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBD wanted)
+                (NP (PRP him))
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (ADVP (RB well))))))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (ADVP (RB only))
+  (VP (VBD invited)
+    (NP (PRP you))
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (PP (IN with)
+            (NP (DT the) (NN doctor)))))))
+  (. .))
+
+(FRAG
+  (INTJ (UH Yes))
+  (, ,)
+  (NP
+    (NP (NNP Joan))
+    (, ,)
+    (PP (RB because) (IN of)
+      (NP (PRP you))))
+  (. .))
+
+(FRAG
+  (ADVP (RB Only))
+  (PP (RB because) (IN of)
+    (NP (PRP you)))
+  (. .))
+
+(FRAG
+  (ADJP (RB Too) (JJ much))
+  (PP (RB because) (IN of)
+    (NP (PRP you)))
+  (, ,)
+  (SBAR (IN because)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADVP (RB away))
+        (PP (IN from)
+          (NP (PRP you))))))
+  (. .))
+
+(SQ
+  (S
+    (NP (PRP I))
+    (VP (VBP know) (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (NP (DT this) (NN apartment)))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP do) (RB n't)
+            (VP (VB work)
+              (PP (IN at)
+                (NP (DT the) (NNP Sheherazade)))
+              (ADVP (DT any) (RBR longer))))))))
+  (, ,)
+  (SQ (VBP Do)
+    (NP (PRP you))
+    (VP (VB think)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (ADJP (JJ calm))
+            (ADVP (RB just))
+            (SBAR (IN because)
+              (S
+                (NP (PRP I))
+                (VP (VBD came)
+                  (PRT (RP in))
+                  (ADVP (RB here) (RB calmly))))))))))
+  (. ?))
+
+(S
+  (INTJ (UH Well))
+  (SBAR (IN because)
+    (S
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB prove)))))
+  (NP (PRP he))
+  (VP (VBZ 's)
+    (SBAR
+      (ADVP (RB there))
+      (IN until)
+      (S
+        (NP (NN somebody))
+        (ADVP (RB actually))
+        (VP (VBZ sees)
+          (NP (PRP him))))))
+  (. .))
+
+(S
+  (NP
+    (NP
+      (NP (CD Two) (NNS duels))
+      (NP
+        (ADVP (RB already))
+        (DT this) (NN season)))
+    (, ,)
+    (VP (VBN named)
+      (PP (IN as)
+        (NP (NN corespondent)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN divorce))
+          (PP (IN of)
+            (NP (DT some) (NN pastry) (NN baker))))))
+    (, ,))
+  (VP (VBD sued)
+    (PP (IN by)
+      (NP
+        (NP (DT a) (JJ young) (NN lady))
+        (PP (IN in)
+          (NP (DT the) (NN chorus)))))
+    (PP (IN at)
+      (NP (DT the) (NN opera)))
+    (, ...)
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBD promised)
+          (NP (PRP her))
+          (NP
+            (NP (DT the) (NN lead))
+            (PP (IN in)
+              (NP (NNP Aida))))))))
+  (. .))
+
+(S
+  (VP (VB Imagine) (, ,)
+    (S
+      (NP
+        (NP (DT a) (CD thousand) (NNS years))
+        (PP (IN of)
+          (NP (NN civilization))))
+      (VP (VBG crumbling)
+        (PP (IN because)
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN drummer) (POS 's))
+              (JJ vocal) (NNS chords)))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBP bet)
+    (SBAR
+      (S
+        (NP (PRP you))
+        (VP (MD wo) (RB n't)
+          (VP
+            (SBAR (IN because)
+              (S
+                (NP (PRP I))
+                (VP (VBP 'm)
+                  (VP (VBG gon)
+                    (S
+                      (VP (TO na)
+                        (VP (VB be)
+                          (ADVP (RB around))
+                          (S
+                            (VP (TO to)
+                              (VP (VB remind)
+                                (NP (PRP you)))))))))))))))))
+  (. .))
+
+(NP (RB Not) (DT a) (NN minute) (. .))
+
+(FRAG
+  (NP (RB Not) (DT a) (JJ second))
+  (, ...)
+  (PP (IN because))
+  (, ,)
+  (NP
+    (NP (NNS hocus))
+    (: -)
+    (NP (NNS pocus)))
+  (, ,)
+  (VP (VBG announcing)
+    (NP (DT the) (JJ first) (NN arrival)))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD was)
+    (VP (VBN told)
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (ADVP (RB here))
+            (SBAR (IN because)
+              (S
+                (NP (PRP it))
+                (VP (MD would)
+                  (VP (VB happen)
+                    (PP (IN at)
+                      (NP (DT any) (NN minute))))))))))))
+  (. .))
+
+(SBARQ
+  (WHADVP (WRB When))
+  (SQ (MD will)
+    (NP (PRP it))
+    (VP (VB happen)))
+  (. ?))
+
+(S
+  (NP
+    (NP (DT The) (NN reason))
+    (SBAR
+      (S
+        (NP (PRP it))
+        (VP (VBZ has)
+          (NP (DT no) (NN saddle))))))
+  (VP (VBZ is)
+    (SBAR (IN because)
+      (S
+        (NP (PRP it))
+        (VP (MD will)
+          (VP (VB be)
+            (ADJP
+              (ADJP (JJR easier))
+              (PP (IN for)
+                (NP (PRP you))))
+            (S
+              (VP (TO to)
+                (VP (VB stay)
+                  (PRT (RP on))
+                  (PP (IN without)
+                    (NP (DT the) (NN saddle)))))))))))
+  (. .))
+
+(S
+  (ADVP (RB Maybe))
+  (NP (PRP it))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP 've)
+          (ADVP (RB never))
+          (VP (VBN looked)
+            (PP (IN at)
+              (NP (PRP me)))
+            (PP (IN before) (HYPH -)
+              (ADVP (RB really))))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (MD wo) (RB n't)
+    (VP (VB find)
+      (NP (DT those) (NNPS Indians))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBP ai) (RB n't)
+            (ADVP (RB here)))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP know)
+    (SBAR (IN because)
+      (S
+        (NP (PRP he))
+        (VP (VBD called)
+          (NP (PRP me))
+          (PP (IN from)
+            (ADVP (RB here)))))))
+  (. .))
+
+(S
+  (NP (NNP Sawyer))
+  (VP (VBD was)
+    (ADVP (RB here)))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBD called)
+    (SBAR (IN because)
+      (S
+        (NP (PRP he))
+        (VP (VBD 'd)
+          (VP (VBN found)
+            (NP (DT the) (NNPS Osceolas)))))))
+  (. .))
+
+(S (CC And)
+  (SBAR (IN because)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (NP (DT a) (NN bricklayer)))))
+  (NP (PRP I))
+  (VP (MD should)
+    (VP (VB die)
+      (PP (IN of)
+        (NP (NN hunger)))))
+  (. ?))
+
+(S
+  (NP (PRP I))
+  (VP (MD ca) (RB n't)
+    (VP (VB clean)
+      (S
+        (NP (PRP it))
+        (ADJP (JJ good))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (ADVP (RB still))
+              (ADJP (JJ dark))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (MD can)
+    (VP (VB do)
+      (NP
+        (NP (NN anything))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP want)))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (VP (VBP 're)
+            (NP (DT both) (NNS men)))))))
+  (. .))
+
+(SBAR
+  (ADVP (RB Just))
+  (IN because)
+  (S
+    (NP (PRP he))
+    (VP (VBZ wears)
+      (NP (DT a) (JJ German) (NN cap))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD should)
+    (VP (VB be)
+      (VP (VBN arrested)
+        (ADVP (RB then))
+        (, ,)
+        (ADVP (RB too)))))
+  (. .))
+
+(S
+  (INTJ (UH Well))
+  (NP (DT the) (NN figure))
+  (VP (VBZ is) (RB n't)
+    (ADJP (JJ accurate))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP it))
+        (VP (VBZ includes) (NFP ...)
+          (SBAR
+            (ADVP (RB Just))
+            (IN because)
+            (S
+              (NP (DT a) (NN man))
+              (VP (VBZ helps)
+                (SBAR (IN in)
+                  (S
+                    (NP (DT a) (NN business) (NN way))
+                    (VP (VBZ does) (RB n't)
+                      (VP (VB give)
+                        (NP (PRP him))
+                        (NP
+                          (NP (NNS privileges))
+                          (PP (IN with)
+                            (NP (PRP$ my) (NN wife)))))))))))))))
+  (. .))
+
+(S
+  (NP (EX There))
+  (VP (VBZ 's)
+    (NP
+      (NP (DT no) (NN point))
+      (PP (IN in)
+        (S
+          (VP (VBG walking)
+            (PRT (RP off))
+            (NP (DT a) (NN job))
+            (SBAR (IN because)
+              (S
+                (NP (DT a) (NN woman))
+                (VP (VBZ makes)
+                  (NP (DT a) (NN remark))))))))))
+  (. .))
+
+(S
+  (NP (EX There))
+  (VP (VBZ 's)
+    (NP (DT no) (NN need)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ irritable))
+            (SBAR (IN because)
+              (S
+                (NP (PRP you))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB shave)
+                        (PP (IN at)
+                          (NP (NN night))))))))))))))
+  (. .))
+
+(S
+  (SBAR (IN Because)
+    (S
+      (NP (PRP I))
+      (VP (VBD succumbed)
+        (PP (IN to)
+          (NP (PRP$ your) (NN charm))))))
+  (VP (VBP do) (RB n't)
+    (VP (VB think)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (MD 'll)
+            (VP (VB endure)
+              (NP (PRP$ your) (NN temperament))
+              (, ,)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP I))
+                  (VP (MD wo) (RB n't))))))))))
+  (. .))
+
+(S
+  (NP (EX There))
+  (VP (VBZ 's)
+    (NP
+      (NP (DT no) (NN money))
+      (CC and)
+      (NP (DT no) (NN work)))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (EX there))
+        (VP (VBZ 's)
+          (NP
+            (NP (DT no) (NN market))
+            (PP (IN for)
+              (NP
+                (NP (NN beef))
+                (PP (IN in)
+                  (NP (DT the) (NNP South))))))))))
+  (. .))
+
+(S
+  (VP (VB Say)
+    (NP (PRP it))
+    (ADVP (RB now))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP (VB want)
+            (S
+              (VP (TO to)
+                (ADVP (RB ever))
+                (VP (VB hear)
+                  (NP (PRP it))
+                  (ADVP (RB again))))))))))
+  (. .))
+
+(SQ (VBZ Is)
+  (NP (PRP it))
+  (SBAR (IN because)
+    (S
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP (PRP$ your) (NNS men))))
+      (VP (MD might) (, --) (MD might)
+        (VP (VB get)
+          (VP (VBN hurt)
+            (CC or)
+            (VBN killed)
+            (ADVP (RB maybe)))))))
+  (. ?))
+
+(SQ (VBZ Is)
+  (NP (PRP it))
+  (SBAR (IN because)
+    (S
+      (NP
+        (NP (PRP$ your) (NNS cattle))
+        (: --)
+        (NP
+          (NP (DT the) (NNS cattle))
+          (SBAR
+            (S
+              (NP (NNP Cherry))
+              (VP (VBD told)
+                (NP (PRP me))
+                (PP (IN about))))))
+        (: --))
+      (VP (MD might)
+        (VP (VB run)
+          (PRT (RP off))))))
+  (. ?))
+
+(S (CC But)
+  (PP (IN on)
+    (NP (DT this) (JJ particular) (NN morning)))
+  (, ,)
+  (NP (PRP$ his) (NN touch))
+  (VP (VBD was) (, ,)
+    (ADVP (RB perhaps))
+    (, ,)
+    (S
+      (NP (DT a) (RB trifle))
+      (ADJP (RB too) (JJ delicate))))
+  (. .))
+
+(SBAR (IN because)
+  (S
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS subjects))
+          (PP (IN for)
+            (NP (PRP$ our) (NN dinner) (NN table))))))
+    (ADVP (RB suddenly))
+    (VP (VBD rebelled)))
+  (. .))
+
+(S
+  (NP
+    (NP (NNP Good))
+    (CC and)
+    (NP
+      (NP (NN evil))
+      (, ,)
+      (ADJP (JJ right)
+        (CC and)
+        (JJ wrong))))
+  (VP (VBD were)
+    (VP (VBN invented)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (JJ ordinary) (JJ average) (NN man))
+          (, ,)
+          (NP (DT the) (JJ inferior) (NN man))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP he))
+          (VP (VBZ needs)
+            (NP (PRP them)))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD must)
+    (VP (VB be)
+      (ADJP (JJ stupid))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP do) (RB n't)
+            (VP (VB know)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP 're)
+                    (ADJP (JJ serious))))
+                (CC or)
+                (RB not))))))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBZ thinks)
+    (SBAR
+      (S
+        (NP (PRP I))
+        (VP (VBD threw)
+          (NP (PRP you))
+          (PRT (RP over))
+          (SBAR (IN because)
+            (S
+              (NP (NNP David))
+              (VP (VBZ has)
+                (NP (DT a) (JJR bigger) (NN bank) (NN account)))))))))
+  (. .))
+
+(S
+  (NP (NNP Brandon))
+  (VP (VBD made)
+    (NP (DT a) (NN crack))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (ADVP (RB here))))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBD implied)
+    (SBAR
+      (S
+        (NP (PRP I))
+        (VP (MD 'd)
+          (VP (VB have)
+            (NP
+              (NP (DT a) (NN chance))
+              (PP (IN with)
+                (NP (PRP you))))
+            (PP
+              (ADVP (RB again))
+              (IN because)
+              (NP
+                (NP
+                  (NP (NNP David) (POS 's))
+                  (NN out))
+                (PP (IN of)
+                  (NP (DT the) (NN running))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP 'm) (RB not)
+    (VP (VBG going)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (VP (VBN caught)
+              (PP (RB because) (IN of)
+                (NP
+                  (NP (PRP you))
+                  (CC or)
+                  (NP (NN anyone) (RB else))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (ADVP (RB unconsciously))
+  (VP (VBD left)
+    (NP (PRP it))
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD wanted)
+          (S
+            (VP (TO to)
+              (VP (VB come)
+                (ADVP (RB back)))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD knew)
+    (SBAR
+      (S
+        (NP (PRP you))
+        (VP (MD 'd)
+          (VP (VB understand) (, ,)
+            (SBAR (IN because) (, ,)
+              (PRN
+                (SQ (VBP do) (RB n't)
+                  (NP (PRP you))
+                  (VP (VB see))))
+              (, ,)
+              (S
+                (NP (PRP you))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)))))))))))
+  (. .))
+
+(S (CC But)
+  (NP (PRP I))
+  (VP (VBP thank)
+    (NP (PRP you))
+    (PP (IN for)
+      (NP (DT that) (NN shame)))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (S
+          (ADVP (RB now))
+          (NP (PRP I))
+          (VP (VBP know)
+            (SBAR (IN that)
+              (S
+                (NP (PRP we))
+                (VP (VBP are)
+                  (NP
+                    (NP (DT each))
+                    (PP (IN of)
+                      (NP (PRP us)))
+                    (NP
+                      (NP (DT a) (JJ separate) (JJ human) (NN being))
+                      (, ,)
+                      (NP (NNP Brandon))))
+                  (, ,)
+                  (PP (IN with)
+                    (NP (DT the) (NN right)
+                      (S
+                        (VP (TO to)
+                          (VP
+                            (VP (VB live)
+                              (CC and)
+                              (VB work))
+                            (CC and)
+                            (VP (VB think)
+                              (PP (IN as)
+                                (NP (NNS individuals))))))))))))))
+        (, ,)
+        (CC but)
+        (S
+          (PP (IN with)
+            (NP
+              (NP (DT an) (NN obligation))
+              (PP (IN to)
+                (NP (DT the) (NN society)))))
+          (NP (PRP we))
+          (VP (VBP live)
+            (PP (IN in)))))))
+  (. .))
+
+(S
+  (INTJ (VB Look))
+  (, ,)
+  (NP (PRP I))
+  (VP (MD 'll)
+    (VP (VB tell)
+      (NP
+        (NP
+          (NP (NNP Chickamaw))
+          (CC and)
+          (NP (JJ old) (NNP T) (HYPH -) (NNP Dub)))
+        (: :) (`` ")
+        (S
+          (NP (NNPS Boys))
+          (, ,)
+          (NP (PRP I))
+          (VP (MD 'll)
+            (VP (VB do)
+              (NP (DT this))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP 're)
+                    (ADJP (JJ broke)))))))))))
+  (. .))
+
+(S
+  (SBAR
+    (ADVP (RB Just))
+    (IN because)
+    (S
+      (NP (PRP you))
+      (VP (VBD covered)
+        (PP (IN for)
+          (NP (PRP me)))
+        (PP (IN in)
+          (NP (NNP Cedars))))))
+  (, ,)
+  (NP (PRP you))
+  (VP (VBP think)
+    (SBAR
+      (S
+        (NP (PRP I))
+        (VP (VBP owe)
+          (NP (PRP you))))))
+  (. .))
+
+(S
+  (VP (VB Think)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB shove)
+          (NP (PRP me))
+          (ADVP (RB around))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP marry)
+    (NP (NNS people))
+    (SBAR (IN because)
+      (S
+        (NP (EX there))
+        (VP (VBZ 's)
+          (NP (DT a) (JJ little) (NN hope))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (MD 'll)
+                (VP (VB be)
+                  (ADJP (JJ happy))))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP You))
+    (VP (MD may)
+      (VP (VB hang)
+        (NP (PRP me))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP desire)))))))
+  (, ,)
+  (CC but)
+  (S
+    (NP (PRP I))
+    (VP (VBP call)
+      (PP (IN upon)
+        (NP (PRP you)))
+      (S
+        (VP (TO to)
+          (VP (VB witness)
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VB surrender)
+                  (ADVP (RB freely))
+                  (, ,)
+                  (ADVP (RB voluntarily))
+                  (, ,)
+                  (PP (IN of)
+                    (NP (PRP$ my) (JJ own) (NN choice)))
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP I))
+                      (VP (MD can) (RB not)
+                        (VP (VB stomach)
+                          (NP
+                            (NP (DT the) (NN kind))
+                            (PP (IN of)
+                              (NP
+                                (NP (NN justice))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP
+                                      (VP (VBZ takes)
+                                        (NP (DT the) (NN woman)))
+                                      (CC and)
+                                      (VP (VBZ lets)
+                                        (S
+                                          (NP (DT the) (NN man))
+                                          (VP (VB go)
+                                            (ADJP (JJ free)))))))))))))))))))))))
+  (. .))
+
+(S
+  (NP (DT That) (NN woman))
+  (VP (MD will)
+    (VP (VB destroy)
+      (NP (PRP you))
+      (SBAR (IN because)
+        (S
+          (NP (PRP she))
+          (VP (MD must))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP have)
+    (VP (VBN forgiven)
+      (NP (NN treason)
+        (CC and)
+        (NN treachery))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP admire)
+            (NP
+              (NP (DT an) (JJ honest) (NN cutthroat))
+              (CONJP (RB as) (RB much) (IN as))
+              (NP (DT any) (NN man))))))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (VP (VBZ 's)
+    (NP
+      (NP (DT no) (NN use))
+      (VP (VBG looking)
+        (PP (IN near)
+          (NP
+            (NP (DT a) (NN railroad))
+            (NFP ...)
+            (CC or)
+            (NP
+              (NP (DT any) (NN kind))
+              (PP (IN of)
+                (NP (DT a) (NN road))))))
+        (ADVP
+          (ADVP (RB at) (RB all))
+          (, ...)
+          (SBAR (IN because)
+            (S
+              (NP (NN construction) (NNS engineers))
+              (VP (VBP examine)
+                (NP
+                  (NP (DT every) (NN bit))
+                  (PP (IN of)
+                    (NP (NN ground))))
+                (PP (IN around)
+                  (NP (DT the) (NN road)))))))))
+    (NFP ...)
+    (SBAR (IN while)
+      (S
+        (NP (PRP they))
+        (VP (VBP 're)
+          (VP (VBG building)
+            (NP (PRP them)))))))
+  (. .))
+
+(S
+  (NP
+    (NP (DT The) (JJS best) (NN place))
+    (SBAR
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (PP (IN to)))))))
+  (VP (VBZ is) (, ...)
+    (SBAR
+      (WHADVP (WRB where))
+      (S
+        (NP (DT any) (JJ salaried) (NN person))
+        (VP (MD would) (RB n't)
+          (VP (VB go)))))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP he))
+        (VP (MD would) (RB n't)
+          (VP (VB want)
+            (S
+              (VP (TO to)
+                (VP (VB risk)
+                  (NP (PRP$ his) (NN hide))))))))))
+  (. .))
+
+(S
+  (NP (NNPS Bandits))
+  (VP (VBD got)
+    (NP (JJ big) (NN surprise))
+    (PP (IN because)
+      (NP (NNS soldiers)))
+    (PP (IN on)
+      (NP
+        (NP (DT the) (NN train))
+        (VP (VBG waiting)
+          (PP (IN for)
+            (NP (PRP them)))))))
+  (. .))
+
+(S
+  (S
+    (VP (MD Could) (RB n't)
+      (VP (VB be)
+        (SBAR (IN because)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (ADJP (JJ scared))))))))
+  (: ...)
+  (S
+    (PP (IN after)
+      (NP (DT the) (NN way)))
+    (NP (PRP you))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (VP (VBG shooting)
+          (NP (PRP$ your) (NN mouth))
+          (PRT (RP off))))))
+  (. ?))
+
+(S
+  (NP (PRP You))
+  (ADVP (RB probably))
+  (VP (VBP think)
+    (SBAR
+      (S
+        (NP (PRP I))
+        (VP (VBP say)
+          (NP (DT this))
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBP 'm)
+                (PP (IN in)
+                  (NP
+                    (NP (NN love))
+                    (PP (IN with)
+                      (NP (NNP Caroline)))))
+                (ADVP (RB too)))))))))
+  (. .))
+
+(S
+  (ADVP (RB Just))
+  (SBAR (IN because)
+    (S
+      (NP (PRP you))
+      (VP (MD wo) (RB n't)
+        (VP (VB let)
+          (NP (DT any) (NN man))))))
+  (VP (VB stand)
+    (PRT (RP up))
+    (PP (IN to)
+      (NP (PRP you))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBZ 's)
+    (VP (VBG running)
+      (NP (DT the) (NNS hills))
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBD drove)
+            (NP (PRP him))
+            (PP (IN to)
+              (NP (PRP it))))))))
+  (. .))
+
+(SBAR
+  (INTJ (UH No))
+  (, ,) (IN because)
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (PRT (RP off))))))))
+    (, ...)
+    (CC But)
+    (S
+      (NP (PRP you))
+      (VP (MD ca) (RB n't)
+        (VP (VB come)
+          (PRT (RP back))
+          (PP (IN without)
+            (NP (DT the) (NNS documents)))))))
+  (. .))
+
+(S
+  (NP (NN Today))
+  (, ,)
+  (NP (PRP it))
+  (VP (VBZ 's)
+    (NP (DT the) (NN opposite))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP$ my) (NN mother))
+        (VP (VBD changed)
+          (NP (PRP$ your) (NN mind))))))
+  (. .))
+
+(FRAG (CC But)
+  (SBAR
+    (WHNP (WDT that))
+    (S
+      (VP (VBD was)
+        (ADJP (JJ odd))
+        (, ,)
+        (SBAR (IN because))))
+    (. ...))
+  (, -)
+  (SBARQ
+    (WHNP (WDT Which) (NN time))
+    (SQ (VBD was)
+      (NP (PRP it))))
+  (. ?))
+
+(S
+  (NP (PRP You))
+  (VP (VBP look)
+    (ADVP (RB kind)
+      (PP (IN of)
+        (ADJP (JJ bothered))))
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBP love)
+          (NP (PRP you))))))
+  (. .))
+
+(INTJ (UH No) (. .))
+
+(S
+  (NP (PRP I))
+  (VP
+    (FRAG
+      (FRAG
+        (ADJP (JJ rich))
+        (ADVP (RB now)))
+      (, ,)
+      (S
+        (ADJP (JJ rich)
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBP have)
+                (NP (PRP you)))))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (MD 'll)
+    (VP (VB have)
+      (S
+        (VP (TO to)
+          (VP (VB explain)
+            (NP (PRP$ her) (JJ many) (NNS things))
+            (, ,)
+            (SBAR (IN because)
+              (S
+                (NP (PRP she))
+                (VP (VBZ does) (RB n't)
+                  (VP (VB know)
+                    (ADJP (JJ enough)))))))))))
+  (. .))
+
+(S
+  (LST (: -))
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB see)
+        (NP (PRP you))
+        (PP (RB because) (IN of)
+          (NP (PRP$ his) (NN —))))))
+  (: -)
+  (S
+    (VP (VB Allow)
+      (NP (PRP me))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP 'm) (RB not)
+    (VP (VBG blaming)
+      (NP (PRP you))
+      (ADVP (RB personally))
+      (, ,)
+      (NP
+        (NP (NNP Adam))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (DT this))
+            (VP (VBZ is)
+              (ADVP (RB so))))))))
+  (. .))
+
+(S (: -)
+  (S
+    (NP (PRP You))
+    (VP (VBP 're) (RB not)
+      (VP (VBG putting)
+        (NP (PRP her))
+        (ADVP (RB away)))))
+  (NFP ...)
+  (SBAR
+    (ADVP (RB just))
+    (IN because)
+    (S
+      (NP (PRP she))
+      (VP (VBD had)
+        (NP (DT the) (NN misfortune)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN born)
+                  (NP (DT a) (NN female))))))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBP ask)
+    (SBAR (IN that) (IN because)
+      (S
+        (NP (PRP you))
+        (VP (MD ca) (RB n't)
+          (VP (VB think)
+            (PP (IN of)
+              (NP (NN anything) (RB else)))
+            (S
+              (VP (TO to)
+                (VP (VB say)))))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBP do) (RB n't)
+    (VP (VB remember)
+      (SBAR (IN because)
+        (S
+          (NP (EX there))
+          (VP (VBZ 's)
+            (NP (NN nothing)
+              (S
+                (VP (TO to)
+                  (VP (VB remember))))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ afraid)
+        (SBAR (IN that)
+          (S
+            (VP (VBZ 's)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP
+                        (ADJP
+                          (NP (DT a) (JJ little))
+                          (JJ difficult))
+                        (: ...)
+                        (SBAR (IN because)
+                          (S
+                            (NP (PRP we))
+                            (VP (VBP have) (RB n't)
+                              (VP (VBN been)
+                                (VP (VBN told)
+                                  (ADVP (RB much)
+                                    (PP (IN about)
+                                      (NP (PRP her))))
+                                  (PP (IN in)
+                                    (ADVP (RB here))))))))
+                        (: ...))))))))))))
+  (CC and)
+  (S
+    (NP (PRP we))
+    (ADVP (RB certainly))
+    (VP (VBP have) (RB n't)
+      (VP (VBN seen)
+        (NP
+          (NP (NNP Doris) (NNP Attinger))
+          (PP (IN in)
+            (NP (DT this) (NN courtroom)))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP find)
+    (S
+      (NP (PRP it))
+      (ADJP
+        (NP (DT a) (JJ little))
+        (JJ difficult))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN taken)
+              (PRT (RP in))
+              (, ,)
+              (NP (NNS ladies)
+                (CC and)
+                (NNS gentlemen))
+              (, ...)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP happen)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (NP
+                            (NP (DT the) (NN fellow))
+                            (SBAR
+                              (WHNP (WP who))
+                              (S
+                                (VP
+                                  (VP (VBD paid)
+                                    (PP (IN for)
+                                      (NP (DT the) (NN bonnet))))
+                                  (NFP ...)
+                                  (CC and)
+                                  (ADVP (RB here))
+                                  (VP (VBZ 's)
+                                    (NP (DT the) (NN receipt)
+                                      (S
+                                        (VP (TO to)
+                                          (VP (VB prove)
+                                            (NP (PRP it)))))))))))))))))))))))
+  (. .))
+
+(S
+  (INTJ (UH No))
+  (, ,)
+  (S
+    (VP (VB do) (RB n't)
+      (VP (VB mind)
+        (NP (PRP him)))))
+  (, ,)
+  (INTJ (UH dear))
+  (, ,)
+  (SBAR
+    (WHADVP (WRB when))
+    (S
+      (NP (PRP they))
+      (VP (VBP tease)
+        (PP (IN like)
+          (NP (DT that))))))
+  (, ,)
+  (NP (PRP it))
+  (VP (VBZ 's)
+    (SBAR (RB just) (IN because)
+      (S
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP they))
+            (ADVP (RB really))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB do)))))))
+        (VP (VBZ is)
+          (VP (NN pinch)
+            (NP (PRP you)))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP 'm) (RB not)
+    (ADJP (JJ sore)
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBD went)
+            (PRT (RP out))
+            (PP (IN with)
+              (NP (NN somebody))))))))
+  (. .))
+
+(S
+  (NP
+    (NP (DT The) (JJ average) (NN fellow))
+    (, ,)
+    (SBAR
+      (ADVP (RB just))
+      (IN because)
+      (S
+        (S
+          (NP (DT a) (NN girl))
+          (VP (VBZ takes)
+            (NP (DT a) (NN drink))
+            (ADVP (RB now))))
+        (CC and)
+        (S
+          (ADVP (RB then))
+          (, ,)
+          (ADVP (RB right) (RB away))
+          (NP (PRP he))
+          (VP (VBZ jumps)
+            (PP (IN to)
+              (NP (NNS conclusions)))))))
+    (, ,))
+  (VP (MD wo) (RB n't)
+    (VP (VB treat)
+      (NP (PRP her))
+      (PP (IN with)
+        (NP (NN respect)))))
+  (. .))
+
+(S
+  (SBAR
+    (WHNP (WP What))
+    (S
+      (VP (VBZ 's)
+        (NP (DT the) (NN matter)))))
+  (, ,)
+  (NP (PRP you))
+  (VP (VBD worried)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (MD 'll)
+          (VP (VB be)
+            (PP (IN in)
+              (NP (NNP Detroit))))))))
+  (. ?) ('' '))
+
+(S
+  (NP (PRP You))
+  (VP (VBP 're)
+    (VP (VBG leaving)
+      (NP
+        (NP (DT the) (NN regiment)
+          (CC and)
+          (NN everything))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP 've)
+              (VP (VBN known) ('' ')
+                (SBAR (RB just) (IN because)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBD kissed)
+                      (NP (DT a) (NN girl))
+                      (PP (IN in)
+                        (NP (NNP Mobile)))))))))))))
+  (. .))
+
+(S
+  (PP (IN For)
+    (NP (NN instance)))
+  (, ,)
+  (NP (NN tonight))
+  (NP (PRP he))
+  (VP (VBZ 's)
+    (VP (VBG bringing)
+      (NP (DT some) (NN fiddlers))
+      (PP (IN to)
+        (NP (DT the) (NN house)))
+      (SBAR (RB just) (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD happened)
+            (S
+              (VP (TO to)
+                (VP (VB like)
+                  (NP (DT the) (JJ American) (NN music))
+                  (PP (IN at)
+                    (NP (DT the) (NN festival)))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP say)
+    (ADJP (JJ desperate))
+    (SBAR (IN because)
+      (S
+        (NP (PRP we))
+        (VP (VBP have)
+          (ADVP (RB so) (RB much))
+          (S
+            (VP (TO to)
+              (VP (VB learn))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD stopped)
+    (PP (IN by))
+    (SBAR (IN because)
+      (S
+        (NP (NNP Miss) (NNP Sloper))
+        (VP (VBD told)
+          (NP (PRP me))
+          (SBAR
+            (S
+              (NP (PRP she))
+              (VP (MD 'd)
+                (VP (VB be)
+                  (ADVP (RB home))
+                  (NP (DT this) (NN morning))))))))))
+  (. .))
+
+(SQ (VBD Did)
+  (NP (PRP you))
+  (VP (VB go)
+    (PRT (RP out))
+    (NP (DT this) (NN morning))
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBD thought)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD might)
+                (VP (VB call)))))))))
+  (. ?))
+
+(S
+  (NP (PRP It))
+  (VP (VBD was)
+    (ADVP (RB just))
+    (SBAR (IN because)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (NP (PRP$ my) (JJ own)))))
+    (SBAR (IN that)
+      (S
+        (NP (PRP I))
+        (VP (VBD spent)
+          (NP (PRP it))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP 've)
+    (VP (VBN made)
+      (NP (DT no) (NNS debts))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD came)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD felt)
+          (ADJP (JJ sure)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (MD would) (RB not)
+                  (VP (VB deny)
+                    (NP (PRP me))
+                    (NP
+                      (NP (DT the) (NN opportunity))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG wishing)
+                            (NP (PRP you))
+                            (NP (PDT both) (DT a) (JJ safe) (NN journey)))))))))))))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (MD will) (RB not)
+    (VP (VB turn)
+      (NP (PRP us))
+      (ADVP (RB away))
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (VP (VBP 've)
+            (VP (VBN come)
+              (ADVP
+                (NP (CD one) (NN day))
+                (RB early))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP 'm)
+    (VP (VBG leaving)
+      (NP
+        (NP (NN tonight))
+        (PP (RB instead) (IN of)
+          (NP (NN tomorrow))))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP
+              (ADJP
+                (NP (CD one) (NN time))
+                (JJR less))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD will)
+                    (ADVP (RB ever))
+                    (VP (VB have)
+                      (S
+                        (VP (TO to)
+                          (VP (VB lay)
+                            (NP
+                              (NP (NNS eyes))
+                              (PP (IN on)
+                                (NP (PRP him)
+                                  (CC or)
+                                  (PRP he))))
+                            (PP (IN on)
+                              (NP (PRP me))))))))))))))))
+  (. .))
+
+(SQ (VBP Are)
+  (NP (PRP you))
+  (VP (VBG blaming)
+    (NP (PRP me))
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD tried)
+          (S
+            (VP (TO to)
+              (VP (VB protect)
+                (NP (PRP you)))))))))
+  (. ?))
+
+(S
+  (NP (NNP Catherine))
+  (, ,)
+  (NP (PRP it))
+  (VP (VBD was)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD loved)
+          (NP (PRP you))
+          (SBAR (IN that)
+            (S
+              (NP (PRP I))
+              (VP (VBD disappeared)
+                (NP (DT that) (NN night)))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP know)
+    (SBAR
+      (WHADVP (WRB why))
+      (S
+        (NP (PRP you))
+        (VP (VBD shivered)
+          (ADVP (RB just))
+          (ADVP (RB now))))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (VP (VBD was) (RB not)
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBD were)
+          (ADJP (JJ cold))))))
+  (. .))
+
+(SBAR
+  (WHADVP (WRB How))
+  (S
+    (NP (PRP you))
+    (VP (VBD told)
+      (NP (PRP me))
+      (S (RB not)
+        (VP (TO to)
+          (VP (VB marry)
+            (NP (NNP Lionel))
+            (SBAR
+              (SBAR (IN because)
+                (S
+                  (NP (PRP you))
+                  (VP (MD might)
+                    (VP (VB be)
+                      (NP (DT a)
+                        (NML (NN duke) (CD one))
+                        (NN day))))))
+              (CC and)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD laughed)
+                    (PP (IN at)
+                      (NP (PRP you))))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD must)
+    (VP (VB decline)
+      (NP (PRP$ your) (NN offer))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (NP
+              (NP (JJ other) (NNS arrangements))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP make)
+                    (S
+                      (NP (PRP it))
+                      (ADJP (JJ impossible)
+                        (PP (IN for)
+                          (NP (PRP me))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB accept)
+                            (NP (PRP it)))))))))))))))
+  (. .))
+
+(FRAG
+  (ADVP (RB Namely))
+  (. ?))
+
+(S
+  (NP (NNP Harpo))
+  (, ,)
+  (NP (PRP you))
+  (VP (MD 'll)
+    (VP (VB be)
+      (PP (IN with)
+        (NP (PRP me)))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBP 've)
+            (ADVP (RB always))
+            (VP (VBN loved)
+              (NP (PRP me))))))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBZ 's)
+    (VP (VBG going)
+      (PP (IN into)
+        (NP
+          (NP (DT this) (CD 800) (JJ square) (NNS miles))
+          (PP (IN of)
+            (NP
+              (ADJP (JJ sudden)
+                (CC and)
+                (JJ violent))
+              (NN death)))))
+      (SBAR (: ...)
+        (SBAR (IN because)
+          (S
+            (NP (PRP he))
+            (VP (VBZ thinks)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (ADVP (RB just))
+                    (NP (DT another) (NN mountain))))))))
+        (: ...)
+        (CC and)
+        (SBAR (IN because)
+          (S
+            (NP (PRP he))
+            (VP (VBZ 's)
+              (ADJP (JJ greedy)
+                (PP (IN for)
+                  (NP (PRP$ its) (NN treasure))))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP You))
+    (VP (VBP see)))
+  (, ,)
+  (NP (DT the) (NNPS Spaniards))
+  (VP (VBD had)
+    (VP (VBN defiled)
+      (NP (DT a) (JJ holy) (NN place))
+      (: ...)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBD came)
+            (PP (IN into)
+              (NP (NNP Superstition))))))
+      (NFP ...)
+      (SBAR (IN because)
+        (S
+          (PP (IN to)
+            (NP (DT the) (NNPS Apaches)))
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (JJ sacred) (NN home))
+              (PP (IN of)
+                (NP (PRP$ their) (NNP Thunder) (NNS Gods)))))))))
+  (. .))
+
+(S
+  (VP (VB Do) (RB n't)
+    (VP (VB assume)
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB take)
+            (NP (NNS liberties)))))
+      (NFP ...)
+      (ADVP (RB simply))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (NP
+              (NP (DT a) (NN businesswoman))
+              (VP (VBG living)
+                (ADVP (RB alone)))))))))
+  (. .))
+
+(S
+  (NP (PRP$ My) (NN wife))
+  (VP
+    (VP (VBD divorced)
+      (NP (PRP me)))
+    (, ,)
+    (VP (VBD took)
+      (NP (PRP$ my) (NN daughter))
+      (PRT (RP away))
+      (PP (IN from)
+        (NP (PRP me)))
+      (NFP ...)
+      (SBAR
+        (ADVP (RB all))
+        (IN because)
+        (S
+          (NP (PRP$ my) (NN wife))
+          (VP (VBD did) (RB n't)
+            (VP (VB sign)
+              (NP (DT a) (NN paper))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP It))
+    (VP (MD wo) (RB n't)
+      (VP (VB matter)
+        (ADVP
+          (ADVP (RB at) (RB all))
+          (, ...)
+          (SBAR (IN because)
+            (S
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 'm)
+                    (PP (IN through)
+                      (PP (IN with)
+                        (NP (PRP him)))))))
+              (NP (PRP I))
+              (VP (MD 'll)
+                (VP (VB have)
+                  (NP (DT a) (JJ second) (NN one))
+                  (PP (IN to)
+                    (NP (PRP$ my) (NN credit)))))))))))
+  (: ...)
+  (S
+    (NP (PRP It))
+    (VP (MD may)
+      (VP (VB take)
+        (NP (PRP me))
+        (NP
+          (NP
+            (QP (CD two)
+              (CC or)
+              (CD three))
+            (JJ extra) (NNS days))
+          (PP (RB because) (IN of)
+            (NP (DT the) (NN crowd)))))))
+  (. .))
+
+(S (CC But)
+  (NP (DT the) (NNS doodles))
+  (VP (VBD did) (RB n't)
+    (VP (VB make)
+      (NP (DT any) (NN sense))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD did) (RB n't)
+            (VP (VB know)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (VP (TO to)
+                    (VP (VB read)
+                      (NP (PRP them))))))))))))
+  (. .))
+
+(S (CC And)
+  (SBAR (IN if)
+    (S
+      (NP (PRP you))
+      (VP (VBD did))))
+  (, ,)
+  (NP (DT this) (NN county))
+  (VP (MD would)
+    (VP (VB need)
+      (NP (DT a) (JJ new) (NN sheriff))
+      (NFP ...)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (MD 'd)
+            (VP (VB be)
+              (ADVP (RB right) (RB there))
+              (VP (VBG digging)
+                (PP (IN with)
+                  (NP (PRP you))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD spoiled)
+    (NP (PRP you))
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (ADVP (RB never))
+        (VP (VBD knew)
+          (NP (PRP$ your) (NN father))))))
+  (. .))
+
+(SBAR
+  (ADVP (RB Just))
+  (IN because)
+  (S
+    (NP (PRP I))
+    (VP (MD would) (RB n't)
+      (VP (VB go)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN picnic))
+            (PP (IN with)
+              (NP (PRP you)))))
+        (NP (JJ last) (NNP Sunday)))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBP 're)
+    (ADJP (JJ glad)
+      (PP (IN about)
+        (NP (NNP Quayne))))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (NP
+            (NP (DT a) (NN story))
+            (PP (IN with)
+              (NP (DT a) (JJ happy) (NN ending)
+                (S
+                  (VP (TO to)
+                    (VP (VB tell)
+                      (ADVP (RB back) (RB east))
+                      (PP (IN at)
+                        (NP (DT a) (NN tea) (NN party)))))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP know)
+    (SBAR
+      (S
+        (NP (PDT all) (DT this))
+        (VP (VBZ is)
+          (PP (RB because) (IN of)
+            (NP (PRP me)))
+          (: -)
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBD wanted)
+                (S
+                  (VP (TO to)
+                    (VP (VB see)
+                      (NP (DT the) (NN west))))))))))))
+  (. .))
+
+(S
+  (NP (DT A) (NN person))
+  (VP (VBZ does) (RB n't)
+    (VP (VB change)
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBP find)
+            (ADVP (RB out) (RBR more)))))))
+  (. .))
+
+(S (CC But)
+  (NP (PRP it))
+  (VP (VBZ has)
+    (VP (VBN said) (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB not)
+            (VP (VB know)))))
+      (, ,)
+      (SBAR
+        (WHADJP (WRB how)
+          (ADJP (JJ grateful)))
+        (S
+          (NP (PRP we))
+          (VP (VBP are))))))
+  (. .))
+
+(FRAG
+  (ADJP (DT The) (JJR happier)
+    (SBAR
+      (S
+        (NP (PRP we))
+        (VP (VBP feel)
+          (PP (IN with)
+            (NP (PRP$ your) (NN company)))))))
+  (. .))
+
+(S
+  (NP (NN Everyone))
+  (VP (VBZ says)
+    (SBAR (IN that)
+      (S
+        (NP (PRP you))
+        (ADVP (RB Adare))
+        (VP (VBZ is)
+          (NP (DT a) (NN lady))
+          (SBAR (IN because)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (ADJP (JJ strange))
+                (SBAR (IN that)
+                  (S
+                    (NP (DT a) (NN man))
+                    (VP (VBZ deals)
+                      (PP (IN with)
+                        (NP
+                          (NP (NNS things))
+                          (PP (IN of)
+                            (NP (NNS women)))))))))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (VBD saw)
+    (PP (RB because) (RB prior))
+    (S
+      (VP (TO to)
+        (VP (VB remember)))))
+  (. .))
+
+(S
+  (INTJ (UH Yes))
+  (NP (PRP we))
+  (VP (VBD saw))
+  (. .))
+
+(S
+  (S
+    (VP (VB Gave)
+      (S
+        (NP (PRP him))
+        (VP (TO to)
+          (VP (VB eat))))))
+  (, ,) (NFP ...)
+  (VP (VBD cleaned)
+    (NP (PRP him))
+    (SBAR (IN because)
+      (S
+        (NP (NN pesebre))
+        (VP (VBD was)
+          (NP
+            (NP (DT a) (NN boy))
+            (PP (IN in)
+              (NP (NN court))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP shudder)
+    (S
+      (VP (TO to)
+        (VP (VB content)
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBD knew)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (NN love))
+                    (VP (VBD was)))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD knew)
+    (SBAR (IN because)
+      (S
+        (PP (IN of)
+          (NP (PRP$ his) (NN love)))
+        (VP (VBD had)
+          (VP (VBN spoken)
+            (PP (IN to)
+              (NP
+                (NP (PRP me))
+                (PP (IN of)
+                  (NP (PRP him))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD 'll)
+    (VP (VB tell)
+      (NP (PRP him))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD 'll)
+            (VP (VB let)
+              (S
+                (NP (PRP him))
+                (VP (VB get)
+                  (PRT (RP away))
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP do) (RB n't)
+                        (VP (VB want)
+                          (NP (PRP$ your) (NN guy) (NN hurt))))))))))))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (VP (VBZ 's) (RB not)
+    (ADVP (RB just))
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT the) (NNS stars))
+        (, ,)
+        (NP (NNP Mr.) (NNP Leutner)))))
+  (. .))
+
+(FRAG (CC And)
+  (SBAR (IN because)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ safe) (NN place))
+          (PP (IN among)
+            (NP (PDT all) (DT these) (NN horse) (NNS freaks)
+              (CC and)
+              (NNS adventurers)))))))
+  (. .))
+
+(S
+  (INTJ (UH Yes))
+  (, ,)
+  (CC but)
+  (NP (NN nobody))
+  (VP (VBD found)
+    (PRT (RP out))
+    (PP (RB because) (IN of)
+      (NP (DT the) (JJ heavy) (NN sea))))
+  (. .))
+
+(FRAG (CC And)
+  (NP (JJ other) (NNS circumstances))
+  (. .))
+
+(S
+  (S
+    (ADVP (RB First))
+    (NP (PRP it))
+    (VP (VBD was) (RB all)
+      (PP (IN about)
+        (NP (DT the) (NNS guests)))))
+  (, ,)
+  (S
+    (ADVP (RB now))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (NNP Wiegler))))
+  (, ,)
+  (S
+    (ADVP (RB later) (RB on))
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB be)
+        (PP (RB because) (IN of)
+          (NP (DT another) (NN guest))))))
+  (. .))
+
+(PP
+  (ADVP (RB Just))
+  (IN because)
+  (PP (IN of)
+    (NP
+      (NP (DT that) (JJ little) (NN bit))
+      (PP (IN of)
+        (NP (NN fun)))))
+  (. ?))
+
+(S
+  (NP (PRP You))
+  (VP (VBP want)
+    (NP (PRP me))
+    (PP (IN under)
+      (NP (PRP$ your) (NN thumb)))
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (NP
+            (NP (NN part))
+            (PP (IN of)
+              (NP (DT the) (NN story))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP She))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP$ our) (NN situation))
+          (VP (VBZ is)
+            (ADJP (JJR worse))
+            (SBAR (IN because)
+              (S
+                (NP (PRP we))
+                (VP (VBP know)
+                  (NP (NN nothing))
+                  (PP (IN about)
+                    (NP (PRP$ our) (NNS families)))))))))))
+  (CC and)
+  (S
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP (DT no) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB go)))))))
+  (. .))
+
+(S (CC And)
+  (SBAR
+    (WHADVP (WRB when))
+    (S
+      (NP (PRP it))
+      (ADVP (RB too))
+      (VP (VBD was)
+        (VP (VBN invaded)))))
+  (NP (PRP I))
+  (VP (VBD escaped)
+    (PP (IN to)
+      (NP (NNP Italy)))
+    (SBAR (IN because) (, ...)
+      (S
+        (NP (DT the) (NNP Gestapo))
+        (VP (VBD were)
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP (PRP me))))))))
+  (. .))
+
+(S
+  (S
+    (S
+      (S (VB Listen))
+      (, ,)
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (PRP$ my) (NN home))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP are)
+        (NP (PRP$ my) (NN wife)))))
+  (, ,)
+  (CC and)
+  (S
+    (NP (PRP you))
+    (VP (VBP are)
+      (ADVP (RB here))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP am))))))
+  (. .))
+
+(S (: -)
+  (NP (PRP They))
+  (VP (VBP take)
+    (NP
+      (NP (NN advantage))
+      (PP (IN of)
+        (NP (PRP me))))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (NP (DT a) (JJ proper) (NN lady))))))
+  (. .))
+
+(SBAR
+  (ADVP (RB Just))
+  (IN because)
+  (S
+    (NP (PRP you))
+    (VP (MD ca) (RB n't)
+      (ADVP (RB even))
+      (VP (VB work)
+        (NP (DT a) (NN zipper)))))
+  (. !))
+
+(S (CC And)
+  (NP
+    (NP (DT this))
+    (VP (VBG getting)
+      (PP (IN into)
+        (NP (DT a) (JJ jealous) (NN froth)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD spent)
+            (NP (CD ten) (NNS minutes))
+            (PP (IN with)
+              (NP (DT a) (NN stage))))))))
+  (, -)
+  (VP (VBD struck)
+    (NP (NN kid)))
+  (. .))
+
+(S
+  (NP (DT That) (NNP Lloyd))
+  (VP (VBD felt)
+    (SBAR (IN as)
+      (S
+        (NP (PRP he))
+        (VP (VBD did)
+          (SBAR (IN because)
+            (S
+              (NP (PRP she))
+              (VP (VBD read)
+                (NP (PRP$ his) (NNS lines))
+                (ADVP (RB exactly))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD 'd)
+                      (VP (VBN written)
+                        (NP (PRP them)))))))))))))
+  (. .))
+
+(S
+  (ADVP (RB Now))
+  (, ,)
+  (NP (NNP Max))
+  (, ,)
+  (NP (PRP I))
+  (VP (VBP do) (RB n't)
+    (VP (VB want)
+      (S
+        (NP (PRP you))
+        (VP (VBG working)
+          (S
+            (NP (DT this) (NN child))
+            (ADJP (RB too) (JJ hard)))
+          (ADVP
+            (ADVP (RB just))
+            (SBAR (IN because)
+              (S
+                (NP (PRP you))
+                (VP (VBD promised)))))))))
+  (. .))
+
+(S
+  (NP (DT That))
+  (VP (MD would)
+    (VP (VB solve)
+      (NP
+        (NP (NN none))
+        (PP (IN of)
+          (NP (PRP$ their) (NNS problems))))
+      (SBAR (IN because)
+        (S
+          (NP (NNS actresses))
+          (ADVP (RB never))
+          (VP (VBP die))))))
+  (. !))
+
+(S
+  (NP (PRP You))
+  (VP (VBD told)
+    (NP (PRP me))
+    (SBAR (IN that)
+      (S
+        (SBAR
+          (WHNP (WDT whatever))
+          (S
+            (NP (PRP I))
+            (VP (VBD became))))
+        (, ,)
+        (NP (PRP it))
+        (VP (MD would)
+          (VP (VB be)
+            (PP (RB because) (IN of)
+              (NP (PRP you))))))))
+  (. .))
+
+(S
+  (NP
+    (NP (PDT All) (DT this) (NN hysteria))
+    (PP (RB because) (IN of)
+      (NP
+        (NP (DT an)
+          (ADJP (JJ impulsive) (JJ excited))
+          (NN kid))
+        (CC and)
+        (NP (DT a) (JJ professional) (NN manure) (HYPH -) (NN slinger)))))
+  (VP (VBD named)
+    (NP (NNP DeWitt)))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP do) (RB n't)
+    (VP (VB have)
+      (S
+        (VP (TO to)
+          (VP (VB play)
+            (NP
+              (NP (NNS parts))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 'm)
+                    (ADJP (RB too) (JJ old)
+                      (PP (IN for)
+                        (ADVP (RB just))))
+                    (SBAR (IN because)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP 've)
+                          (VP (VBN got)
+                            (NP (NN nothing))
+                            (S
+                              (VP (TO to)
+                                (VP (VB do)
+                                  (PP (IN with)
+                                    (NP (PRP$ my) (NNS nights)))))))))))))))))))
+  (. .))
+
+(S
+  (SBAR (IN Although)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ unnecessary))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (PRP you))
+            (VP (VBP know)
+              (SBAR
+                (WHNP (WP what)))))))))
+  (NP (PRP I))
+  (VP (VBP 'm)
+    (VP (VBG going)
+      (S
+        (VP (TO to)
+          (VP (VB say))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD came)
+    (S
+      (VP (TO to)
+        (VP (VB tell)
+          (NP (PRP you))
+          (SBAR (IN that)
+            (S
+              (NP (PRP you))
+              (VP (MD will) (RB not)
+                (VP (VB marry)
+                  (NP
+                    (NP (NNP Lloyd))
+                    (, ,)
+                    (CC or)
+                    (NP (NN anyone) (RB else))
+                    (, ,))
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP I))
+                      (VP (MD will) (RB not)
+                        (VP (VB permit)
+                          (NP (PRP it))))))))))))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (VBD called)
+    (NP (PRP him))
+    (NP (PRP$ Your) (NN Highness)))
+  (. .))
+
+(S
+  (NP (DT That))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (PRP he))
+        (VP (VBZ 's)
+          (NP (DT the) (NNP Prince))))))
+  (. .))
+
+(SQ (MD Shall)
+  (NP (PRP I))
+  (VP (VB crawl)
+    (PRT (RP out))
+    (PP (IN on)
+      (NP (PRP$ my) (NNS hands)
+        (CC and)
+        (NNS knees)))
+    (SBAR (IN because)
+      (S
+        (NP (DT some) (NNP Norman))
+        (VP (VBZ tells)
+          (S
+            (NP (PRP me))
+            (VP (TO to)))))))
+  (. ?))
+
+(SBARQ
+  (S
+    (VP (VB Tell)
+      (NP (PRP me))))
+  (, ,)
+  (WHADVP (WRB when))
+  (SQ
+    (NP (PRP you))
+    (VP (VB refuse)
+      (NP (PRP me))
+      (NP (PRP$ your) (NN loyalty))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (NP
+              (NP (DT a) (NNP Norman))
+              (: ...)
+              (SQ (VBP have)
+                (NP (PRP you))
+                (ADVP (RB not))
+                (VP (VBN considered)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP have)
+                        (NP
+                          (NP (DT no) (NN choice))
+                          (PP (IN in)
+                            (NP (DT the) (JJ same) (NN matter))))
+                        (NFP ...)
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP I))
+                            (VP (MD must)
+                              (VP (VB be)
+                                (NP
+                                  (NP (NN king))
+                                  (PP (IN for)
+                                    (NP (NNP Norman)
+                                      (CC and)
+                                      (NNP Saxon))))
+                                (ADVP (RB alike)))))))))))))))
+      (NFP ...)
+      (SBAR (IN whether)
+        (S
+          (NP (PRP I))
+          (VP (VBP like)
+            (NP (PRP it))))
+        (CC or)
+        (RB not))))
+  (. ?))
+
+(S
+  (NP (PRP I))
+  (VP (MD would) (RB not)
+    (VP (VB like)
+      (NP (DT the) (NN lad))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN hanged)
+              (ADVP (RB merely))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ has)
+                    (VP (VBN been)
+                      (VP (VBN hurt))))))))))))
+  (. .) ('' "))
+
+(S
+  (NP (PRP I))
+  (VP (MD could) (RB not)
+    (VP (VB leave)
+      (NP (DT this))
+      (ADVP (RB openly))
+      (SBAR (IN because)
+        (S
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (ADVP (RB so)))))
+          (VP (MD might)
+            (VP (VB do)
+              (S
+                (NP (PRP you))
+                (VP (VB hurt)))))))))
+  (. .))
+
+(S
+  (ADVP (RB Sometimes))
+  (NP (PRP they))
+  (VP (VB call)
+    (NP (PRP me))
+    (NP (`` ")
+      (NP (DT the) (NN bird))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ feathers)
+            (NP (PRP$ his) (NN nest)))))
+      ('' "))
+    (, ...)
+    (SBAR (IN because)
+      (S
+        (NP (PRP they))
+        (VP (VBP say)
+          (SBAR (IN that)
+            (S
+              (NP (PRP I))
+              (VP (VBP steal)
+                (PP (IN from)
+                  (NP (NN everyone))))))))))
+  (. .))
+
+(S
+  (NP (DT This) (NN one))
+  (NP (PRP they))
+  (VP (VBP call)
+    (NP
+      (NP (PRP her))
+      (`` ")
+      (NP (DT the) (NN singer))
+      ('' "))
+    (SBAR (IN because)
+      (S
+        (NP (PRP she))
+        (VP (VBZ makes)
+          (NP (JJ horrible) (NN noise))
+          (NP (PDT all) (DT the) (NN time))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (VBP 're) (RB not)
+    (VP (VBG traveling)
+      (NP (NN today))
+      (SBAR (IN because)
+        (S
+          (NP (PRP he))
+          (VP (VBZ 's)
+            (NP
+              (NP (VBG holding) (NNS games))
+              (: ...)
+              (NP
+                (NP (DT some) (NN sort))
+                (PP (IN of)
+                  (NP
+                    (NP (NN tournament))
+                    (PP (IN on)
+                      (NP (DT the) (NN plain))))))))))))
+  (. .))
+
+(S (CC And)
+  (NP (DT no) (NN one))
+  (VP (MD will)
+    (VP (VB come)
+      (PP (IN near)
+        (NP (PRP$ our) (NN tent)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (VP (VBP are)
+            (NP (NNPS Christians)))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (ADJP (RB very) (JJ ashamed))
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (ADVP (RB almost))
+            (VP (VBD stopped)
+              (S
+                (VP (VBG believing)
+                  (PP (IN in)
+                    (NP (PRP it)))))))))))
+  (: ...)
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBD found)
+          (PRT (RP out)))))
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN sent)
+                (PP (IN to)
+                  (NP (DT the) (NNP Khan))))))))))
+  (. .))
+
+(FRAG
+  (S
+    (NP (PRP I))
+    (VP (VBD wanted)
+      (ADVP (RB very) (RB much))
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (PP (IN to)
+              (NP (NNP England))))))
+      (, ...)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD thought)
+            (SBAR
+              (WHADJP (WRB how) (JJ wonderful))
+              (S
+                (NP (PRP it))
+                (VP (MD must)
+                  (VP (VB be)
+                    (PP (IN in)
+                      (NP (DT a) (NN country))))))))))))
+  (, ...)
+  (FRAG
+    (SBAR
+      (WHADVP (WRB where))
+      (S
+        (NP (PDT all) (DT the) (NNS people))
+        (VP (VBD were)
+          (PP (IN like)
+            (NP (PRP him))))))
+    (, -)
+    (ADJP
+      (ADJP (JJ gentle))
+      (CC and)
+      (ADJP (RB very) (JJ tall)
+        (CC and)
+        (JJ beautiful))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP He))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (PRP me))
+            (ADVP (RB there)))))))
+  (, ,)
+  (CC but)
+  (S
+    (NP (PRP he))
+    (VP (MD could) (RB n't)
+      (VP
+        (SBAR (IN because)
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (NP (DT a) (NN prisoner))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP wish)
+    (SBAR
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (NP (DT a) (NN miracle))
+          (, ,)
+          (SBAR (IN because)
+            (S
+              (NP (DT that))
+              (VP (VBZ 's)
+                (ADVP (RB just))
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (PRP we))
+                    (VP (VBP need)))))))))))
+  (. .))
+
+(S (CC But)
+  (NP (PRP I))
+  (VP (VBP 'm)
+    (ADJP (JJ afraid)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD ca) (RB n't)
+            (VP (VB count)
+              (PP (IN on)
+                (NP (PRP it)))
+              (SBAR (IN because)
+                (S
+                  (NP (NNS miracles))
+                  (ADVP (RB just))
+                  (VP (VBP do) (RB n't)
+                    (VP (VB happen)
+                      (PP (IN like)
+                        (NP (DT that)))))))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP We))
+    (VP (VBP 're)
+      (ADVP (RB somewhere))
+      (PP (IN in)
+        (NP (DT the) (NN palace)))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (ADVP (RB just))
+            (VP (VBG talking)
+              (PP (IN to)
+                (NP (DT the) (NN emp)))))))))
+  (: -)
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (NP (DT the) (NN attack))
+    (VP (MD must)
+      (VP (VB be)
+        (ADJP (JJ close))
+        (SBAR (IN because)
+          (S
+            (NP
+              (NP (DT a) (NN lot))
+              (PP (IN of)
+                (NP (NNS people))))
+            (VP (VBP are)
+              (VP (VBG leaving)
+                (PRT (RP down))
+                (NP (DT the) (NN river)))))))))
+  (. .))
+
+(S
+  (NP (NNS Men))
+  (VP (VBP smile)
+    (SBAR (IN because)
+      (S
+        (NP (PRP she))
+        (VP (VBZ has)
+          (ADVP (RB also))
+          (VP (VBN taken)
+            (NP (PRP$ their) (NNS hearts)))))))
+  (. .))
+
+(S (: -)
+  (NP (PRP It))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (PP (IN of)
+          (NP (PRP you)))
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (VP (VBG doing)
+            (NP (DT this)))))))
+  (. .))
+
+(S
+  (NP (NNS Lets))
+  (NP (PRP you))
+  (VP (VBP walk)
+    (NP (DT all))
+    (PP (IN over)
+      (NP (PRP him)))
+    (SBAR (RB just) (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP pay)
+          (NP (PRP him))))))
+  (. .))
+
+(S
+  (VP (VB Do) (RB n't)
+    (VP (VB get)
+      (ADJP (JJ nervous))
+      (ADVP (RB just))
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBD read)
+            (NP (DT a) (NN book)))))))
+  (. .))
+
+(S
+  (NP
+    (NP (PDT All) (DT this))
+    (PP (IN because)
+      (NP (DT a) (NN dame))))
+  (VP (VBZ reads)
+    (NP (DT a) (NN book)))
+  (. .))
+
+(S
+  (NP (PRP One))
+  (, ,)
+  (VP (VB play)
+    (NP (NN ball)))
+  (. .))
+
+(S
+  (NP (CD Two))
+  (, ,)
+  (VP (VB watch)
+    (NP (PRP$ your) (NN step))
+    (SBAR (IN because)
+      (S
+        (NP (EX there))
+        (VP (VBZ 's)
+          (NP
+            (NP (DT no) (NN place))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (MD can)
+                  (VP (VB live)
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP you))
+                        (NP (NN monkey) (HYPH -) (NN wrench)))))))))
+          (NP (PRP me))))))
+  (. .))
+
+(S (CC But)
+  (NP (PRP we))
+  (VP (VBP have)
+    (S
+      (VP (TO to)
+        (VP (VB hurry))))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (RB even) (NNS miracles))
+        (VP (VBP take)
+          (NP (DT a) (JJ little) (NN time))))))
+  (. .))
+
+(S
+  (S
+    (ADVP (RB Maybe))
+    (NP (PRP we))
+    (VP (MD ought)
+      (S
+        (VP (TO to)
+          (VP (VB ask)
+            (NP (PRP her))
+            (, ,)
+            (SBAR (IN because) (, ,)
+              (INTJ (UH brother))
+              (, ,)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ 's)
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is)))))))))))))
+  (: ...)
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBG leaving)
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBP have) (RB n't)
+              (NP (NN anything)
+                (S
+                  (VP (TO to)
+                    (VP (VB hold)
+                      (NP (PRP me))
+                      (ADVP (RB here))
+                      (ADVP (RB anymore))))))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (ADVP (RB only))
+  (VP (VBD did)
+    (NP (PRP it))
+    (PP (RB because) (IN of)
+      (NP (PRP you))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD did)
+    (NP (PRP it))
+    (PP (IN for)
+      (NP (PRP you))))
+  (. .))
+
+(S
+  (NP (PRP You))
+  (VP (MD 'd)
+    (ADVP (RBR better))
+    (VP (VB change)
+      (NP (PRP$ your) (NN mind))
+      (NFP ...)
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (MD 'll)
+            (VP (VB be)
+              (VP (VBG spending)
+                (NP (PRP$ your) (NN future))
+                (PP (IN with)
+                  (NP (NN somebody) (RB else))))))))))
+  (. .))
+
+(S
+  (NP (DT That))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP 've)
+          (ADVP (RB never))
+          (VP (VBN had)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (NP (DT a) (NN part))
+                    (PP (IN of)
+                      (NP (PRP it))))))))))))
+  (. .))
+
+(S
+  (NP (PRP He))
+  (VP (VBZ has) (RB n't)
+    (VP (VBN heard)
+      (PP (IN from)
+        (NP (PRP me)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN had)
+              (NP (NN nothing))
+              (S
+                (VP (TO to)
+                  (VP (VB report))))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (VBP do)
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (PRP we))
+        (VP (VBP do)
+          (SBAR (IN because) (, ...)
+            (INTJ (UH well))
+            (, ,)
+            (S
+              (SBAR (IN as)
+                (S
+                  (NP (PRP you))
+                  (ADVP (RB once))
+                  (VP (VBD said))))
+              (, ,)
+              (NP (PRP we))
+              (VP (MD ca) (RB n't)
+                (VP (VB help)
+                  (NP (PRP ourselves))))))))))
+  (. .))
+
+(S
+  (VP
+    (VP (VB Buy)
+      (NP (DT a) (NN husband))
+      (PP (IN with)
+        (NP (DT a) (NN marriage) (NN settlement))))
+    (, ...)
+    (VP (VB look)
+      (PP (IN for)
+        (NP (DT a) (NN stableboy)))
+      (SBAR (IN like)
+        (S
+          (NP (PRP$ your) (NN uncle))
+          (VP (VBD found)
+            (NP (NNP Francesca))))))
+    (, ...)
+    (SBAR (IN because)
+      (S
+        (NP (PRP$ your) (JJ own) (NNS men))
+        (VP (VBP are)
+          (ADJP (RB as) (JJ empty)
+            (SBAR (IN as)
+              (S
+                (NP (PRP you))
+                (VP (VBP are)))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (VBD made)
+    (NP (NNS excuses))
+    (PP (IN for)
+      (NP (PRP$ your) (NN mischief)))
+    (, ...)
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBD harmed)
+          (NP
+            (NP (NN nobody))
+            (PP (IN but)
+              (NP (PRP yourself))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD can)
+    (VP (VB say)
+      (NP (PRP it))
+      (ADVP (RB now))
+      (SBAR (IN because)
+        (S
+          (NP (PRP$ my) (NN pride))
+          (VP (VBD was)
+            (VP (VBN hanged)
+              (PP (IN with)
+                (NP (PRP him)))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP You))
+    (VP (VBP do) (RB n't)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB trust)
+              (NP (PRP yourself))))))))
+  (: ...)
+  (S
+    (SBAR (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (ADJP (JJ afraid)))))
+    (NP (PRP you))
+    (VP (VBP love)
+      (NP (PRP her))
+      (ADVP (RB too))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBD did) (RB n't)
+    (VP (VB bring)
+      (NP (PRP it))
+      (PP (IN in)
+        (PP (IN with)
+          (NP (PRP me))))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD did) (RB n't)
+            (VP (VB want)
+              (NP (PRP you))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (DT the) (JJ wrong) (NN idea)))))))))))
+  (. .))
+
+(S (CC But)
+  (S
+    (NP (PRP you))
+    (VP (VBP know)
+      (NP
+        (NP (DT the) (JJ last) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADVP (RB there))))))))
+  (, ,)
+  (S
+    (NP (PRP I))
+    (ADVP (RB kind) (RB of))
+    (VP (VBD got)
+      (NP
+        (NP (DT the) (NN impression))
+        (SBAR
+          (S
+            (NP (PRP$ your) (NN sister))
+            (VP (VBD held)
+              (NP (PRP it))
+              (PP (IN against)
+                (NP (PRP me)))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD did)
+                    (NP (DT a) (JJ little) (NN time)))))))))))
+  (: ...)
+  (S
+    (NP (NNP Elwood))
+    (VP (VBZ drinks)))
+  (. .))
+
+(S (CC And)
+  (NP (PRP I))
+  (VP (VBP want)
+    (SBAR
+      (S
+        (NP (PRP him))
+        (VP (VBD committed)
+          (ADVP (RB here))
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (MD can) (RB not)
+                (VP (VB stand)
+                  (NP
+                    (NP (DT another) (NN day))
+                    (PP (IN of)
+                      (NP (DT that) (NNP Harvey))))))))))))
+  (. .))
+
+(S
+  (NP
+    (NP (PRP$ Their) (NNS hopes))
+    (CC and)
+    (NP
+      (NP (PRP$ their) (NNS regrets))
+      (, ,)
+      (NP (PRP$ their) (NNS loves))
+      (CC and)
+      (NP (PRP$ their))))
+  (VP (VBZ hates) (, ,)
+    (ADVP (RB all) (RB very) (JJ large))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (NN nobody))
+        (ADVP (RB ever))
+        (VP (VBZ brings)
+          (S
+            (NP (NN anything))
+            (ADJP (JJ small)
+              (PP (IN into)
+                (NP (DT a) (NN bar)))))))))
+  (. .))
+
+(S
+  (ADVP (RB Now))
+  (, ,)
+  (NP (PRP I))
+  (VP (VBD thought)
+    (NP
+      (NP (NN nothing))
+      (PP (IN of)
+        (NP (DT that))))
+    (SBAR (IN because)
+      (S
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP (VBP 've)
+              (VP (VBN lived)
+                (PP (IN in)
+                  (NP (DT a) (NN town)))
+                (ADVP
+                  (ADVP (RB as) (RB long))
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP 've)
+                        (VP (VBN lived)
+                          (PP (IN in)
+                            (NP (DT this) (NN one))))))))))))
+        (, ,)
+        (NP (NN everybody))
+        (VP (VBZ knows)
+          (NP (PRP$ your) (NN name))))))
+  (. .))
+
+(S
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN future)))
+    (NP (PRP they))
+    (VP (MD 'll) (RB not)
+      (ADVP (RB only))
+      (VP (VB be)
+        (ADJP (JJ good)))))
+  (CC but)
+  (S
+    (NP (PRP they))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADJP (JJ great))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (PRP they))
+            (VP (MD 'll)
+              (VP (VB be)
+                (PP (IN about)
+                  (NP
+                    (NP (NNS things))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP know)))))))))))))
+  (. .))
+
+(SBAR
+  (ADVP (RB Just))
+  (IN because)
+  (S
+    (NP (PRP I))
+    (VP (VBP take)
+      (NP
+        (NP (DT an) (NN interest))
+        (PP (IN in)
+          (NP (PRP you))))))
+  (. !))
+
+(S (CC And)
+  (NP (PRP they))
+  (VP (VBP think)
+    (SBAR (IN that) (IN because)
+      (S
+        (NP (PRP you))
+        (VP (VBP 've)
+          (VP (VBN lived)
+            (PP (IN with)
+              (NP (PRP them)))
+            (PP (IN for)
+              (NP
+                (NP
+                  (NP (NNS years))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP 're)
+                        (ADJP (JJ fond))))))
+                (PP (IN of)
+                  (NP (PRP you))))))))))
+  (. .))
+
+(SBAR
+  (WHNP (WP What))
+  (SQ
+    (SBAR
+      (NP (DT a) (NN relief))
+      (IN because)
+      (S
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD were)
+              (PP (IN to)
+                (NP (NN rain))))))
+        (, ,)
+        (ADVP (RB since))
+        (NP (PRP I))
+        (VP (VBD forgot)
+          (NP (PRP$ my) (NN cane)))))
+    (, ...) (VBP Do)
+    (NP (PRP you))
+    (VP (VB think)))
+  (. ?))
+
+(S
+  (NP (PRP It))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD forgot)
+          (NP (PRP$ my) (NN umbrella))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD could) (RB n't)
+    (VP
+      (SBAR (IN because)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP
+              (NP (DT no) (NN one) (RB else))
+              (PP (IN in)
+                (NP (DT the) (NN carriage)))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP I))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB talk)
+            (PP (IN to)
+              (NP (PRP you)))
+            (SBAR (IN because)
+              (S
+                (NP (CD one) (NN thing))
+                (VP (VBZ is)
+                  (ADJP (JJ certain))))))))))
+  (: :)
+  (S
+    (NP (PRP You))
+    (VP (VBD got)
+      (ADJP (JJ rid))
+      (PP (IN of)
+        (NP (NNP Miquette)))
+      (ADVP (RB too))
+      (SBAR (IN because)
+        (S
+          (NP (PRP she))
+          (VP (VBD was)
+            (PP (IN in)
+              (NP (DT the) (NN way))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP$ My) (NN uncle))
+    (VP (VBD sent)
+      (NP (PRP me))
+      (NP
+        (NP (DT a) (NN telegram))
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBD was) (RB n't)
+                (VP (VBG coming)
+                  (PP (IN to)
+                    (NP (PRP$ my) (NN wedding)))
+                  (PP (IN because))))))))))
+  (: ...)
+  (S
+    (ADVP (RB well))
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (NP (JJ acute) (NN rheumatism)))))))
+  (. .))
+
+(FRAG
+  (NP (SYM -))
+  (ADVP (RB Really))
+  (. ?))
+
+(S
+  (NP (PRP I))
+  (VP (VBD ran)
+    (PRT (RP off))
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD thought)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBD were)
+                (VP (VBN engaged)))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP You))
+    (VP (VBD felt)
+      (ADJP (JJ ill))))
+  (, ,)
+  (CC but)
+  (S
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (PP (RB because) (IN of)
+        (NP (PRP$ your) (JJ little) (NN baby)))))
+  (. .))
+
+(S (CC But)
+  (NP (PRP it))
+  (VP (VBZ 's)
+    (SBAR (IN because)
+      (S
+        (NP (NNS men))
+        (VP (VBP are)
+          (ADJP (JJ weak))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP lie))))
+          (, ,)
+          (ADVP (RB even)
+            (PP (IN to)
+              (NP (PRP themselves))))))))
+  (. .))
+
+(S
+  (SBAR
+    (WHADVP (WRB Why))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (MD could)
+        (ADVP (RB never))
+        (VP (VB hate)
+          (NP (PRP you))))))
+  (, ,)
+  (NP
+    (NP (NNP Jonathan))
+    (SBAR (IN because)
+      (S
+        (S
+          (NP (PRP we))
+          (VP (VBP 're)))
+        (, ...)
+        (CC And)
+        (S
+          (NP (PRP I))
+          (VP (VBP do) (RB n't)
+            (VP (VB want)
+              (S
+                (VP (TO to)
+                  (VP (VB see)
+                    (NP (PRP him)))))))))))
+  (VP (VBD ruined)
+    (PP (RB because) (IN of)
+      (NP (PRP me))))
+  (. .))
+
+(S
+  (S
+    (NP
+      (NP (NN Everything))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD did)
+            (PP (IN for)
+              (NP (PRP her)))))))
+    (VP (VBD was)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD loved)
+            (NP (PRP her)))))))
+  (CC and)
+  (S
+    (NP (PRP she))
+    (VP (VBD loved)
+      (NP (PRP me))))
+  (. .))
+
+(S
+  (PP (IN Because)
+    (NP (DT the) (NN company)))
+  (NP (PRP 's))
+  (VP (VBD played)
+    (NP (NN ball))
+    (PP (IN with)
+      (NP (PRP you)))
+    (SBAR
+      (SBAR
+        (ADVP (RB long) (RB enough))
+        (, ,) (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (ADVP
+              (NP (CD three) (NNS payments))
+              (RB behind)))))
+      (CC and)
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (VP (VBD got)
+            (NP (DT a) (NN court) (NN order)))))))
+  (. .))
+
+(S
+  (NP (PRP It))
+  (VP (VBD was)
+    (PP (IN like)
+      (NP
+        (NP (DT that) (JJ old) (NN woman))
+        (PP (IN in)
+          (S
+            (NP
+              (NP (NNP Great) (NNP Expectations))
+              (, ,)
+              (NP
+                (NP (DT that) (NNP Miss) (NNP Havisham))
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ her) (JJ rotting) (NN wedding) (NN dress))
+                    (CC and)
+                    (NP (PRP$ her) (JJ torn) (NN veil)))))
+              (, ,))
+            (VP (VBG taking)
+              (NP (PRP it))
+              (PRT (RP out))
+              (PP (IN on)
+                (NP (DT the) (NN world))))))))
+    (SBAR (IN because)
+      (S
+        (NP (PRP she))
+        (VP (VBD 'd)
+          (VP (VBN been)
+            (VP (VBN given)
+              (NP (DT the) (NN go) (HYPH -) (RP by))))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (VBP warn)
+    (S
+      (NP (PRP you))
+      (, ,)
+      (VP (VB do) (RB n't)
+        (VP (VB give)
+          (NP (PRP me))
+          (NP (DT a) (JJ fancy) (NN price))
+          (SBAR (RB just) (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBP 'm)
+                (ADJP (JJ rich)))))))))
+  (. !))
+
+(S
+  (NP (PRP You))
+  (VP (MD 'd)
+    (ADVP (RB never))
+    (VP (VB know)
+      (NP (PRP it))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP it))
+              (VP (VBD reached)
+                (NP (DT the) (NN screen)))))
+          (, ,)
+          (NP (DT the) (JJ whole) (NN thing))
+          (VP (VBD played)
+            (PP (IN on)
+              (NP (DT a) (NN torpedo) (NN boat))))))))
+  (. .))
+
+(S
+  (INTJ (VB Look))
+  (, ,)
+  (NP (PRP I))
+  (VP (VBD was)
+    (VP (VBG making)
+      (NP (DT that))
+      (PRT (RP up))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD thought)
+            (SBAR
+              (S
+                (NP (DT the) (JJ whole) (NN thing))
+                (VP (VBD was)
+                  (NP (DT a) (NN mistake))))))))))
+  (. .))
+
