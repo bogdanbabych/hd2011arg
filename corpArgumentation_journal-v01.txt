@@ -1,0 +1,390 @@
+Standofrd parser running on the corpora
+	https://nlp.stanford.edu/software/nndep.shtml
+	https://nlp.stanford.edu/software/lex-parser.shtml
+	https://www.google.com/search?q=german+type+dependencies+stanford&oq=german+type+dependencies+stanford&aqs=chrome..69i57j69i64.6914j0j7&sourceid=chrome&ie=UTF-8
+	https://www.google.com/search?q=run+german+stanford+parser&oq=run+german+stanford+parser&aqs=chrome..69i57.13031j0j7&sourceid=chrome&ie=UTF-8
+
+
+	germanPCFG.ser.gz
+	https://github.com/treppo/stanfordparser/blob/master/stanford-parser/models/germanPCFG.ser.gz
+	https://www.google.com/search?q=germanPCFG.ser.gz&oq=germanPCFG.ser.gz&aqs=chrome..69i57.23815j0j7&sourceid=chrome&ie=UTF-8
+
+	print output in German parser
+
+	https://nlp.stanford.edu/nlp/javadoc/javanlp/edu/stanford/nlp/parser/lexparser/Options.html
+	https://www.google.com/search?q=stanford+parser+print+sentence+option&oq=stanford+parser+print+sentence+option&aqs=chrome..69i57.8162j0j7&sourceid=chrome&ie=UTF-8
+
+	Stanford core NLP
+	https://stanfordnlp.github.io/CoreNLP/download.html
+
+	Usage of Stanford parser (slides)
+		https://www.cl.uni-heidelberg.de/courses/ss18/ressourcen/material/slides03_3.pdf
+		https://www.google.com/search?q=options+german+parser+stanford&oq=options+german+parser+stanford&aqs=chrome..69i57.8488j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+
+	encoding problems for German and workarounds...
+	https://stackoverflow.com/questions/36345371/stanford-parser-cant-read-german-umlauts
+
+
+iconv
+	https://www.linuxquestions.org/questions/linux-software-2/how-to-make-iconv-to-skip-incorrect-symbols-or-iconv-alternative-893435/
+	https://www.geeksforgeeks.org/iconv-command-in-linux-with-examples/
+
+
+Alternative parsers:
+	Koblenz dependency parser for German
+		https://gitlab.uni-koblenz.de/sgross91/pp/tree/master/stanford-parser-full-2018-02-27
+		https://www.google.com/search?biw=1902&bih=970&sxsrf=ALeKk01m--gQYY-lWl6NwNeaIdWCV4wudQ%3A1605781829919&ei=RUm2X7zWN8q4kwXs96rgDg&q=stanford+german+parser+example&oq=stanford+german+parser+example&gs_lcp=CgZwc3ktYWIQAzIECCMQJzoECAAQRzoHCCMQsAIQJzoGCAAQDRAeOggIABANEAUQHjoICAAQCBANEB5Q7BxYwSVg8iZoAHACeACAAVqIAfYDkgEBN5gBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwj8jLy8s47tAhVK3KQKHey7Cuw4ChDh1QMIDQ&uact=5
+
+	Dependency Tree Parser for German Clinical Text
+		http://macss.dfki.de/dependency_parser.html
+		https://www.google.com/search?q=standord+german+parser+example&oq=standord+german+parser+example&aqs=chrome..69i57.7497j0j7&sourceid=chrome&ie=UTF-8
+
+
+grep commands
+	unix select lines smaller than length
+	https://askubuntu.com/questions/649820/filter-lines-based-on-length-using-sed-and-grep
+	https://www.google.com/search?q=unix+select+lines+smaller+than+length&oq=unix+select+lines+smaller+than+length&aqs=chrome..69i57.12480j0j7&sourceid=chrome&ie=UTF-8
+
+unix command sort uniq by frequency
+sort & count the no of occurrences of lines:
+	https://unix.stackexchange.com/questions/170043/sort-and-count-number-of-occurrence-of-lines
+	https://www.google.com/search?q=unix+command+sort+uniq+by+frequency&oq=unix+command+sort+uniq+by+frequency&aqs=chrome..69i57.13715j0j7&sourceid=chrome&ie=UTF-8
+
+uniq example
+	https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/
+	https://www.google.com/search?q=uniq+example&oq=uniq+example&aqs=chrome..69i57.5253j0j7&sourceid=chrome&ie=UTF-8
+
+grep suppress line number
+	https://askubuntu.com/questions/77156/how-to-get-line-number-from-grep
+	https://www.google.com/search?q=grep+suppress+line+number&oq=grep+suppress+line+number&aqs=chrome..69i57.4679j0j7&sourceid=chrome&ie=UTF-8
+
+unix select lines matching string
+	https://unix.stackexchange.com/questions/333121/how-to-find-lines-containing-a-string-and-then-printing-those-specific-lines-and
+	https://www.google.com/search?q=unix+select+lines+matching+string&oq=unix+select+lines+matching+string&aqs=chrome..69i57.19071j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+
+
+
+
+
+
+	directories:
+
+	parser:
+		/Users/bogdan/elisp/stanford-nlp/stanford-parser-full-2020-11-17
+
+	data:
+	/Users/bogdan/elisp/hd2011arg
+	/Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c03emea/de-en
+
+
+
+commands for the workflow:
+directory:
+corpArgumentation
+
+
+Terminal 1
+  501  grep -nr "however" EMEA.de-en.en >EMEA.de-en.en--however.txt
+  502  grep -nhr "however" EMEA.de-en.en >EMEA.de-en.en--however.txt
+  503  grep -nhrI "however" EMEA.de-en.en >EMEA.de-en.en--however.txt
+  504  echo GREP_OPTIONS
+  505  echo $GREP_OPTIONS
+  506  GREP_OPTIONS=''
+  507  grep -nhrI "however" EMEA.de-en.en >EMEA.de-en.en--however.txt
+  508  grep -hr "however" EMEA.de-en.en >EMEA.de-en.en--however.txt
+  509  uniq EMEA.de-en.en--however.txt >EMEA.de-en.en-u-however.txt
+  510  sort EMEA.de-en.en--however.txt | uniq -c > EMEA.de-en.en-u-however.txt
+  511  sort EMEA.de-en.en--however.txt | uniq -c | sort -nr >EMEA.de-en.en-u-however.txt
+  512  grep -hr "jedoch" EMEA.de-en.de >EMEA.de-en.de--jedoch.txt
+  513  sort EMEA.de-en.de--jedoch.txt | uniq -c | sort -nr >EMEA.de-en.de-u-jedoch.txt
+  514  awk
+  515  awk length($0)<150' EMEA.de-en.en-u-however.txt >EMEA.de-en.en-ul-however.txt
+  516  awk 'length($0)<150' EMEA.de-en.en-u-however.txt >EMEA.de-en.en-ul-however.txt
+  517  awk 'length($0)<200' EMEA.de-en.en-u-however.txt >EMEA.de-en.en-ul-however.txt
+  518  awk 'length($0)<200' EMEA.de-en.de-u-jedoch.txt >EMEA.de-en.de-ul-jedoch.txt
+  519  awk '{$1= ""; print $0}' EMEA.de-en.de-ul-jedoch.txt >EMEA.de-en.de-uln-jedoch.txt
+  520  wc EMEA.de-en.de-uln-jedoch.txt
+  521  awk '{$1= ""; print $0}' EMEA.de-en.en-ul-however.txt >EMEA.de-en.en-uln-however.txt
+  522  wc EMEA.de-en.en-uln-however.txt
+  523  ls /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt
+  524  ls /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt
+  525  ls /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt
+  526  iconv EMEA.de-en.de-uln-jedoch.txt -f UTF-8 -t ISO-8859-1 >EMEA.de-en.de-uln-jedoch-iso.txt
+  527  iconv  -f UTF-8 -t ISO-8859-1 EMEA.de-en.de-uln-jedoch.txt >EMEA.de-en.de-uln-jedoch-iso.txt
+  528  iconv  -f UTF-8 -t ISO-8859-1//IGNORE EMEA.de-en.de-uln-jedoch.txt >EMEA.de-en.de-uln-jedoch-iso.txt
+  529  iconv  -f ISO-8859-1 -t UTF-8//IGNORE EMEA.de-en.de-uln-jedoch-iso.txt.output.30.stp >EMEA.de-en.de-uln-jedoch-iso.txt.output.30.stp.txt
+  530  cat EMEA.de-en.en-ulnP-however.txt
+  531  head -n 80 EMEA.de-en.en-ulnP-however.txt
+  532  clear
+  533  head -n 80 EMEA.de-en.en-ulnP-however.txt
+  534  head -n 100 EMEA.de-en.en-ulnP-however.txt
+  535  head -n 2 EMEA.de-en.en-uln-however.txt
+  536  head -n 50
+  537  head -n 50 EMEA.de-en.en-uln-however.txt
+  538  cat >corpArgumentation_journal-v01.txt
+  539  atom corpArgumentation_journal-v01.txt
+
+
+
+
+
+
+Heap size controlling: length of sentences...
+	https://stackoverflow.com/questions/2294268/how-can-i-increase-the-jvm-memory
+
+	When starting the JVM, two parameters can be adjusted to suit your memory needs :
+
+-Xms<size>
+specifies the initial Java heap size and
+
+-Xmx<size>
+the maximum Java heap size.
+
+http://www.rgagnon.com/javadetails/java-0131.html
+
+lexparser in the Stanford NLP directory:
+
+
+Terminal 2
+  505  java -version
+  506  unzip stanford-parser-4.2.0.zip
+  507  lexparser.sh ./data/english-onesent.txt
+  508  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  509  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  510  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  511  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  512  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  513  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  514  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  515  lexparser.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-uln-however.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.en-ulnP-however.txt
+  516  lexparserDE.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.en-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.en-ulnP-jedoch.txt
+  517  ./lexparser-lang.sh
+  518  ./lexparser-lang.sh German 30 germanPCFG.ser.gz out /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-ulnP-jedoch.txt
+  519  ./lexparser-lang.sh German 30 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-ulnP-jedoch.txt
+  520  lexparserDE.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.en-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.en-ulnP-jedoch.txt
+  521  lexparserDE.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.de-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.en-ulnP-jedoch.txt
+  522  lexparserDE.sh /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-de.en-ulnP-jedoch.txt
+  523  java -Xmx2g -cp "./*" edu.stanford.nlp.parser.lexparser.LexicalizedParser -maxLength 30 -tLPP edu.stanford.nlp.parser.lexparser.NegraPennTreebankParserParams -hMarkov 1 -vMarkov 2 -vSelSplitCutOff 300 -uwm 1 -unknownSuffixSize 2 -nodeCleanup 2 -writeOutputFiles -outputFilesExtension output.30.stp -outputFormat "penn" -outputFormatOptions "removeTopBracket,includePunctuationDependencies" -encoding ISO_8859-1 -tokenized -loadFromSerializedFile edu/stanford/nlp/models/lexparser/germanFactored.ser.gz /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt
+  524  cat
+  525  cat lexparserDE.sh
+  526  java -Xmx2g -cp "./*" edu.stanford.nlp.parser.lexparser.LexicalizedParser -maxLength 30 -tLPP edu.stanford.nlp.parser.lexparser.NegraPennTreebankParserParams -hMarkov 1 -vMarkov 2 -vSelSplitCutOff 300 -uwm 1 -unknownSuffixSize 2 -nodeCleanup 2 -writeOutputFiles -outputFilesExtension output.30.stp -outputFormat "penn" -outputFormatOptions "removeTopBracket,includePunctuationDependencies" -encoding ISO_8859-1 -tokenized -loadFromSerializedFile edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt
+  527  java -Xmx2g -cp "./*" edu.stanford.nlp.parser.lexparser.LexicalizedParser -maxLength 30 -tLPP edu.stanford.nlp.parser.lexparser.NegraPennTreebankParserParams -hMarkov 1 -vMarkov 2 -vSelSplitCutOff 300 -uwm 1 -unknownSuffixSize 2 -nodeCleanup 2 -writeOutputFiles -outputFilesExtension output.30.stp -outputFormat "penn" -outputFormatOptions "removeTopBracket,includePunctuationDependencies" -encoding ISO_8859-1 -loadFromSerializedFile edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt
+  528  java -Xmx2g -cp "./*" edu.stanford.nlp.parser.lexparser.LexicalizedParser -maxLength 30 -tLPP edu.stanford.nlp.parser.lexparser.NegraPennTreebankParserParams -hMarkov 1 -vMarkov 2 -vSelSplitCutOff 300 -uwm 1 -unknownSuffixSize 2 -nodeCleanup 2 -writeOutputFiles -outputFilesExtension output.30.stp -outputFormat "penn" -outputFormatOptions "removeTopBracket,includePunctuationDependencies" -encoding ISO_8859-1 -loadFromSerializedFile edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch-iso.txt
+  529  clear
+  530  history
+
+
+[26.11.2020]
+	Parsing corpus of open subtitles
+
+	data
+		/Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen
+
+	commands:
+
+		grep -hr "however" OpenSubtitles.de-en.en >OpenSubtitles.de-en.en--however.txt
+		grep -nhr "however" OpenSubtitles.de-en.en >OpenSubtitles.de-en.en--however2.txt
+
+
+		finding position of 'however', etc. >> balancing:
+			grep find position of match in line
+			https://unix.stackexchange.com/questions/153339/how-to-find-a-position-of-a-character
+			https://unix.stackexchange.com/questions/153339/how-to-find-a-position-of-a-character
+			https://www.google.com/search?q=grep+find+position+of+match+in+line&oq=grep+find+position+of+match+in+line&aqs=chrome..69i57.7943j0j7&sourceid=chrome&ie=UTF-8
+
+
+			https://stackoverflow.com/questions/2021982/awk-without-printing-newline
+
+
+
+	awk 'BEGIN {IRS=/[ :]/; ORS="\t"}{for(i=1;i<=NF;i++){if($i=="however"){printf $1, i NF; print "\n"}}}' OpenSubtitles.de-en.en--however2.txt >OpenSubtitles.de-en.en--however2-positions.txt
+	awk 'BEGIN {FS=/[ :]/; OFS="\t"}{for(i=1;i<=NF;i++){if($i=="however"){printf $1; ptintf i; printf NF; printf "\n"}}}' OpenSubtitles.de-en.en--however2.txt >OpenSubtitles.de-en.en--however2-positions.txt
+	awk 'BEGIN {}{for(i=1;i<=NF;i++){if($i ~ /^however/){printf $1; printf "\tI:"; printf i; printf "\tNF:"; printf NF; printf "\n"}}}' OpenSubtitles.de-en.en--however2.txt >OpenSubtitles.de-en.en--however2-positions.txt
+	awk 'BEGIN {FS="[ :]";}{for(i=1;i<=NF;i++){if($i ~ /^however/){printf $1; printf "\tI:"; printf i-1; printf "\tNF:"; printf NF-1; printf "\n"}}}' OpenSubtitles.de-en.en--however2.txt >OpenSubtitles.de-en.en--however2-positions.txt
+
+	grep -hr "however" < OpenSubtitles.de-en.en | awk 'BEGIN {FS="[ :]";}{for(i=1;i<=NF;i++){if($i ~ /^however/){printf $0; printf "\tI:"; printf i; printf "\tNF:"; printf NF; printf "\n"}}}' > OpenSubtitles.de-en.en--however3.txt
+	grep -hr "however" < OpenSubtitles.de-en.en | awk 'BEGIN {FS="[ :]";}{for(i=1;i<=NF;i++){if($i ~ /^however/ && i / NF >0.25 && i / NF<0.75){printf $0; printf "\n"}}}' > OpenSubtitles.de-en.en--however4.txt
+	grep -hr "however" < OpenSubtitles.de-en.en | awk 'BEGIN {FS="[ :]";}{for(i=1;i<=NF;i++){if($i ~ /^however/ && i / NF >0.1 && i / NF<0.9 && NF > 7){print $0}}}' > OpenSubtitles.de-en.en--however4.txt
+	sort < OpenSubtitles.de-en.en--however4.txt | uniq -c | sort -nr >OpenSubtitles.de-en.en--however4uq-std.txt
+	uniq < OpenSubtitles.de-en.en--however4.txt >OpenSubtitles.de-en.en--however4uq.txt
+
+
+running Stanford parser on
+		/Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.en--however4uq.txt
+
+		bash-3.2$ ./lexparser-lang.sh
+		Usage: lexparser-lang.sh lang len grammar out_file FILE...
+
+		  lang       : Language to parse (Arabic, English, Chinese, German, French)
+		  len        : Maximum length of the sentences to parse
+		  grammar    : Serialized grammar file (look in the models jar)
+		  out_file   : Prefix for the output filename
+		  FILE       : List of files to parse
+
+		To set additional parser options, modify parse_opts in lexparser_lang.def
+
+		Parser memory limit is currently: 3g
+
+
+
+lexparser-lang.sh German 30 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-uln-jedoch.txt >/Volumes/WDE/elisp/_data/corpArgumentation/c03emea/de-en/EMEA.de-en.de-ulnP-jedoch.txt
+
+lexparser-lang.sh English 150 edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.en--however4uq.txt
+	output:
+	Parsed file: /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.en--however4uq.txt [1944 sentences].
+	Parsed 34998 words in 1944 sentences (55.05 wds/sec; 3.06 sents/sec).
+
+German workflow:
+1.
+grep -hr "jedoch" < OpenSubtitles.de-en.de | awk 'BEGIN {FS="[ :]";}{for(i=1;i<=NF;i++){if($i ~ /^jedoch/ && i / NF >0.1 && i / NF<0.9 && NF > 7){print $0}}}' > OpenSubtitles.de-en.de--jedoch4.txt
+uniq < OpenSubtitles.de-en.de--jedoch4.txt > OpenSubtitles.de-en.de--jedoch4uq.txt
+iconv  -f UTF-8 -t ISO-8859-1//IGNORE < OpenSubtitles.de-en.de--jedoch4uq.txt > OpenSubtitles.de-en.de--jedoch4uq-iso.txt
+2.
+# lexparser-lang.sh German 150 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.de--jedoch4uq.txt
+lexparser-lang.sh German 150 edu/stanford/nlp/models/lexparser/germanPCFG.ser.gz out /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.de--jedoch4uq-iso.txt
+#
+# not needed: (generated automatically in utf-8)
+# iconv  -f ISO-8859-1 -t UTF-8//IGNORE < /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.de--jedoch4uq-iso.txt.out.150.stp > /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/opensub-deen/OpenSubtitles.de-en.de--jedoch4uq-utf8.txt.out.150.stp
+
+
+
+results:
+(S
+  (NP
+    (NP (DT Another))
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP (VBZ deserves)
+          (NP (NN praise))))))
+  (, ,)
+  (ADVP (RB however))
+  (, ,)
+  (VP (VBZ is)
+    (VP (VBG spat)
+      (PP (IN upon))))
+  (. .))
+
+
+
+
+deserves prise // is spat upon
+
+...
+
+
+List of connectors to try:
+Argumentation connectors:
+Direct
+	en
+
+		therefore
+		because
+		thereby
+		thus
+		hence
+		since
+		consequently
+		// so
+
+	fr
+
+		donc
+		car
+		ainsi
+		partant
+
+	de
+
+		also
+		daher
+		drum
+		darum
+		deshalb
+		dass
+		demgemäß
+		demnach
+		demzufolge
+		deshalb
+		deswegen
+		ergo
+		folglich
+		infolgedessen
+		sodass/so dass
+		somit
+		weshalb
+		weswegen
+		weil
+		// so
+
+Reverse
+	en
+
+		however
+		nevertheless
+		nonetheless
+		despite
+		although
+		yet
+		but
+
+	fr
+
+		pourtant
+		quoique
+		sinon
+		autant
+		inversement
+		tandis
+		cependant
+		néanmoins
+		toutefois
+		malgré
+		mais
+		// encore
+
+
+	de
+
+		aber
+		anderenteils
+		anderseits
+		andererseits
+		dagegen
+		dahingegen
+		dementgegen
+		demgegenüber
+		doch
+		dennoch
+		gegenüber
+		hingegen
+		jedoch
+		noch
+		nur
+		obwohl
+		wogegen
+		wohingegen
+		trotzdem
+		trotz
+		zwar
+		
+		
+[2020-12-10]
+    Developing workspaces
+    
+    data -- development directory
+    _data -- production directory
+    
+    the structure is the same; 
+    
+    
+    
+    
+    
+	   

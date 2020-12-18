@@ -1,0 +1,24 @@
+
+Configuration management file
+
+2020-11-12
+
+    corpus to be collected:
+    Languages: En; De; Fr; Cs in all combinations - 
+    
+        En  De  Fr  Cs
+    En      1   2   3
+    De          4   5
+    Fr              6
+    Cz
+    
+    europarl; emea; jrc; euronews interviews... >> 
+        Euronews corpus >> as comparable...
+        
+    
+    
+    
+    The Economist ... corpus 
+    Ukrainian argumentative texts ???
+    Specialised translation texts ??? >> commissioning professional translation :: exploring arugmentation
+    

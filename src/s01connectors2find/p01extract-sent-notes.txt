@@ -1,0 +1,95 @@
+Direct
+    en
+
+        therefore
+        because
+        thereby
+        thus
+        hence
+        since
+        consequently
+        // so
+
+    fr
+
+        donc
+        car
+        ainsi
+        partant
+
+    de
+
+        also
+        daher
+        drum
+        darum
+        deshalb
+        dass
+        demgemäß
+        demnach
+        demzufolge
+        # deshalb
+        deswegen
+        ergo
+        folglich
+        infolgedessen
+        sodass/so dass
+        somit
+        weshalb
+        weswegen
+        weil
+        // so
+
+Reverse
+    en
+
+        however
+        nevertheless
+        nonetheless
+        despite
+        although
+        yet
+        but
+
+    fr
+
+        pourtant
+        quoique
+        sinon
+        autant
+        inversement
+        tandis
+        cependant
+        néanmoins
+        toutefois
+        malgré
+        mais
+        // encore
+
+
+    de
+
+        aber
+        anderenteils
+        anderseits
+        andererseits
+        dagegen
+        dahingegen
+        dementgegen
+        demgegenüber
+        doch
+        dennoch
+        gegenüber
+        hingegen
+        jedoch
+        noch
+        nur
+        obwohl
+        wogegen
+        wohingegen
+        trotzdem
+        trotz
+        zwar
+
+        
+        
