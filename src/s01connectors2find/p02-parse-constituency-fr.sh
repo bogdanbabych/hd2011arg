@@ -21,7 +21,11 @@
 # in directory of stanford NLP
 cd /Users/bogdan/elisp/stanford-nlp/stanford-corenlp-4.2.0
 # java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file french.txt -outputFormat text
-java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/DIR-donc--OpenSubtitles.de-fr.fr.txt 
+
+# java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/DIR-donc--OpenSubtitles.de-fr.fr.txt 
+java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/DIR-partant--OpenSubtitles.de-fr.fr.txt 
+java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/REV-pourtant--OpenSubtitles.de-fr.fr.txt
+java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-french.properties -annotators tokenize,ssplit,pos,parse -file /Users/bogdan/elisp/hd2011arg/_data/corpArgumentation/c04openSubtitles/de-fr/REV-mais--OpenSubtitles.de-fr.fr.txt
 
 
 
