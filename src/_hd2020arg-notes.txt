@@ -21,4 +21,20 @@ Configuration management file
     The Economist ... corpus 
     Ukrainian argumentative texts ???
     Specialised translation texts ??? >> commissioning professional translation :: exploring arugmentation
-    
+
+
+Tasks for analysis:
+DE
+	also
+	deshalb
+	aber
+
+FR
+	donc
+	c'est pourquoi
+	mais
+
+EN
+	so
+	therefore / that is why
+	but / however
