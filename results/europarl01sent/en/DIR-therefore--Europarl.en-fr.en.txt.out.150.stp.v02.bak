@@ -1,0 +1,40 @@
+(S
+  (NP (PRP I))
+  (VP (MD would)
+    (ADVP (RB therefore))
+    (ADVP (RB once) (RBR more))
+    (VP (VB ask)
+      (NP (PRP you))
+      (S
+        (VP (TO to)
+          (VP (VB ensure)
+            (SBAR (IN that)
+              (S
+                (NP (PRP we))
+                (VP (VBP get)
+                  (NP (DT a) (JJ Dutch) (NN channel))
+                  (ADVP (RB as) (RB well))))))))))
+  (. .))
+
+(S
+  (NP (PRP We))
+  (VP (MD shall)
+    (ADVP (RB therefore))
+    (VP (VB look)
+      (PP (IN into)
+        (NP (PRP it)))
+      (ADVP (RB properly))
+      (S
+        (VP (TO to)
+          (VP (VB ensure)
+            (SBAR (IN that)
+              (S
+                (NP (NN everything))
+                (VP (VBZ is)
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP it))
+                      (VP (MD should)
+                        (VP (VB be)))))))))))))
+  (. .))
+
